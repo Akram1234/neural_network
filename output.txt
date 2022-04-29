@@ -1,0 +1,10007 @@
+
+Sample 1
+Input: 1 0 
+Output: 0.994386 
+Target: 0 
+
+Sample 2
+Input: 1 1 
+Output: 0.996485 
+Target: 1 
+
+Sample 3
+Input: 1 0 
+Output: 0.994271 
+Target: 0 
+
+Sample 4
+Input: 0 1 
+Output: 0.99096 
+Target: 0 
+
+Sample 5
+Input: 0 1 
+Output: 0.990684 
+Target: 0 
+
+Sample 6
+Input: 0 1 
+Output: 0.990325 
+Target: 0 
+
+Sample 7
+Input: 0 1 
+Output: 0.989905 
+Target: 0 
+
+Sample 8
+Input: 1 1 
+Output: 0.995789 
+Target: 1 
+
+Sample 9
+Input: 1 1 
+Output: 0.995693 
+Target: 1 
+
+Sample 10
+Input: 0 1 
+Output: 0.989065 
+Target: 0 
+
+Sample 11
+Input: 0 0 
+Output: 0.950013 
+Target: 0 
+
+Sample 12
+Input: 0 1 
+Output: 0.987543 
+Target: 0 
+
+Sample 13
+Input: 0 0 
+Output: 0.941394 
+Target: 0 
+
+Sample 14
+Input: 0 0 
+Output: 0.933608 
+Target: 0 
+
+Sample 15
+Input: 1 0 
+Output: 0.988686 
+Target: 0 
+
+Sample 16
+Input: 1 1 
+Output: 0.992082 
+Target: 1 
+
+Sample 17
+Input: 1 0 
+Output: 0.9867 
+Target: 0 
+
+Sample 18
+Input: 1 1 
+Output: 0.991138 
+Target: 1 
+
+Sample 19
+Input: 0 1 
+Output: 0.976714 
+Target: 0 
+
+Sample 20
+Input: 0 1 
+Output: 0.975099 
+Target: 0 
+
+Sample 21
+Input: 1 1 
+Output: 0.989318 
+Target: 1 
+
+Sample 22
+Input: 0 1 
+Output: 0.971501 
+Target: 0 
+
+Sample 23
+Input: 0 0 
+Output: 0.882569 
+Target: 0 
+
+Sample 24
+Input: 1 1 
+Output: 0.985224 
+Target: 1 
+
+Sample 25
+Input: 0 1 
+Output: 0.958055 
+Target: 0 
+
+Sample 26
+Input: 1 0 
+Output: 0.971406 
+Target: 0 
+
+Sample 27
+Input: 0 1 
+Output: 0.945349 
+Target: 0 
+
+Sample 28
+Input: 1 0 
+Output: 0.961771 
+Target: 0 
+
+Sample 29
+Input: 0 0 
+Output: 0.771418 
+Target: 0 
+
+Sample 30
+Input: 0 0 
+Output: 0.707562 
+Target: 0 
+
+Sample 31
+Input: 0 1 
+Output: 0.847202 
+Target: 0 
+
+Sample 32
+Input: 1 1 
+Output: 0.903647 
+Target: 1 
+
+Sample 33
+Input: 0 1 
+Output: 0.718903 
+Target: 0 
+
+Sample 34
+Input: 0 1 
+Output: 0.584233 
+Target: 0 
+
+Sample 35
+Input: 1 1 
+Output: 0.682249 
+Target: 1 
+
+Sample 36
+Input: 1 0 
+Output: 0.591885 
+Target: 0 
+
+Sample 37
+Input: 0 1 
+Output: 0.0844303 
+Target: 0 
+
+Sample 38
+Input: 1 1 
+Output: 0.363216 
+Target: 1 
+
+Sample 39
+Input: 0 1 
+Output: 0.146768 
+Target: 0 
+
+Sample 40
+Input: 1 0 
+Output: 0.53659 
+Target: 0 
+
+Sample 41
+Input: 1 0 
+Output: 0.406928 
+Target: 0 
+
+Sample 42
+Input: 0 1 
+Output: -0.17895 
+Target: 0 
+
+Sample 43
+Input: 1 0 
+Output: 0.124397 
+Target: 0 
+
+Sample 44
+Input: 0 1 
+Output: -0.260445 
+Target: 0 
+
+Sample 45
+Input: 0 1 
+Output: -0.18506 
+Target: 0 
+
+Sample 46
+Input: 1 1 
+Output: 0.282333 
+Target: 1 
+
+Sample 47
+Input: 1 1 
+Output: 0.632721 
+Target: 1 
+
+Sample 48
+Input: 0 1 
+Output: 0.548614 
+Target: 0 
+
+Sample 49
+Input: 0 1 
+Output: 0.51916 
+Target: 0 
+
+Sample 50
+Input: 1 1 
+Output: 0.716522 
+Target: 1 
+
+Sample 51
+Input: 0 0 
+Output: -0.0475505 
+Target: 0 
+
+Sample 52
+Input: 1 1 
+Output: 0.712014 
+Target: 1 
+
+Sample 53
+Input: 0 1 
+Output: 0.366058 
+Target: 0 
+
+Sample 54
+Input: 1 0 
+Output: 0.616937 
+Target: 0 
+
+Sample 55
+Input: 1 0 
+Output: 0.444572 
+Target: 0 
+
+Sample 56
+Input: 1 0 
+Output: 0.178446 
+Target: 0 
+
+Sample 57
+Input: 0 0 
+Output: -0.473158 
+Target: 0 
+
+Sample 58
+Input: 0 0 
+Output: -0.449586 
+Target: 0 
+
+Sample 59
+Input: 1 0 
+Output: 0.00468928 
+Target: 0 
+
+Sample 60
+Input: 0 1 
+Output: -0.257428 
+Target: 0 
+
+Sample 61
+Input: 0 0 
+Output: -0.244651 
+Target: 0 
+
+Sample 62
+Input: 0 1 
+Output: -0.0166264 
+Target: 0 
+
+Sample 63
+Input: 1 1 
+Output: 0.385769 
+Target: 1 
+
+Sample 64
+Input: 1 0 
+Output: 0.548208 
+Target: 0 
+
+Sample 65
+Input: 1 0 
+Output: 0.524816 
+Target: 0 
+
+Sample 66
+Input: 0 0 
+Output: -0.0648143 
+Target: 0 
+
+Sample 67
+Input: 1 0 
+Output: 0.30058 
+Target: 0 
+
+Sample 68
+Input: 0 1 
+Output: -0.0448781 
+Target: 0 
+
+Sample 69
+Input: 0 1 
+Output: -0.0936352 
+Target: 0 
+
+Sample 70
+Input: 0 1 
+Output: -0.0809218 
+Target: 0 
+
+Sample 71
+Input: 0 1 
+Output: -0.042505 
+Target: 0 
+
+Sample 72
+Input: 0 1 
+Output: -0.00625724 
+Target: 0 
+
+Sample 73
+Input: 0 0 
+Output: -0.149345 
+Target: 0 
+
+Sample 74
+Input: 1 1 
+Output: 0.313459 
+Target: 1 
+
+Sample 75
+Input: 1 1 
+Output: 0.602968 
+Target: 1 
+
+Sample 76
+Input: 1 1 
+Output: 0.775195 
+Target: 1 
+
+Sample 77
+Input: 0 0 
+Output: 0.296194 
+Target: 0 
+
+Sample 78
+Input: 1 0 
+Output: 0.779675 
+Target: 0 
+
+Sample 79
+Input: 0 0 
+Output: 0.185319 
+Target: 0 
+
+Sample 80
+Input: 0 1 
+Output: 0.53569 
+Target: 0 
+
+Sample 81
+Input: 1 1 
+Output: 0.667835 
+Target: 1 
+
+Sample 82
+Input: 0 0 
+Output: -0.0794971 
+Target: 0 
+
+Sample 83
+Input: 1 0 
+Output: 0.523087 
+Target: 0 
+
+Sample 84
+Input: 1 0 
+Output: 0.391053 
+Target: 0 
+
+Sample 85
+Input: 1 0 
+Output: 0.181826 
+Target: 0 
+
+Sample 86
+Input: 1 0 
+Output: -0.00360446 
+Target: 0 
+
+Sample 87
+Input: 0 1 
+Output: -0.221428 
+Target: 0 
+
+Sample 88
+Input: 1 0 
+Output: -0.0645981 
+Target: 0 
+
+Sample 89
+Input: 0 0 
+Output: -0.358883 
+Target: 0 
+
+Sample 90
+Input: 1 1 
+Output: 0.238752 
+Target: 1 
+
+Sample 91
+Input: 0 1 
+Output: 0.305811 
+Target: 0 
+
+Sample 92
+Input: 1 0 
+Output: 0.481843 
+Target: 0 
+
+Sample 93
+Input: 1 0 
+Output: 0.384866 
+Target: 0 
+
+Sample 94
+Input: 1 1 
+Output: 0.413541 
+Target: 1 
+
+Sample 95
+Input: 0 1 
+Output: 0.225675 
+Target: 0 
+
+Sample 96
+Input: 1 1 
+Output: 0.529332 
+Target: 1 
+
+Sample 97
+Input: 1 1 
+Output: 0.649692 
+Target: 1 
+
+Sample 98
+Input: 0 1 
+Output: 0.466581 
+Target: 0 
+
+Sample 99
+Input: 1 1 
+Output: 0.726149 
+Target: 1 
+
+Sample 100
+Input: 1 1 
+Output: 0.745973 
+Target: 1 
+
+Sample 101
+Input: 1 1 
+Output: 0.782676 
+Target: 1 
+
+Sample 102
+Input: 1 1 
+Output: 0.81674 
+Target: 1 
+
+Sample 103
+Input: 1 0 
+Output: 0.685425 
+Target: 0 
+
+Sample 104
+Input: 0 1 
+Output: 0.478352 
+Target: 0 
+
+Sample 105
+Input: 1 0 
+Output: 0.443984 
+Target: 0 
+
+Sample 106
+Input: 1 0 
+Output: 0.20048 
+Target: 0 
+
+Sample 107
+Input: 1 0 
+Output: -0.0173217 
+Target: 0 
+
+Sample 108
+Input: 1 0 
+Output: -0.117618 
+Target: 0 
+
+Sample 109
+Input: 0 0 
+Output: -0.536378 
+Target: 0 
+
+Sample 110
+Input: 0 1 
+Output: -0.15192 
+Target: 0 
+
+Sample 111
+Input: 0 1 
+Output: -0.0496261 
+Target: 0 
+
+Sample 112
+Input: 1 1 
+Output: 0.400883 
+Target: 1 
+
+Sample 113
+Input: 0 1 
+Output: 0.271717 
+Target: 0 
+
+Sample 114
+Input: 1 0 
+Output: 0.399644 
+Target: 0 
+
+Sample 115
+Input: 0 1 
+Output: 0.186209 
+Target: 0 
+
+Sample 116
+Input: 1 0 
+Output: 0.163533 
+Target: 0 
+
+Sample 117
+Input: 0 1 
+Output: -0.0646605 
+Target: 0 
+
+Sample 118
+Input: 0 0 
+Output: -0.459672 
+Target: 0 
+
+Sample 119
+Input: 0 1 
+Output: -0.0332732 
+Target: 0 
+
+Sample 120
+Input: 1 0 
+Output: 0.0877928 
+Target: 0 
+
+Sample 121
+Input: 1 0 
+Output: 0.072273 
+Target: 0 
+
+Sample 122
+Input: 0 0 
+Output: -0.366809 
+Target: 0 
+
+Sample 123
+Input: 1 0 
+Output: 0.0853879 
+Target: 0 
+
+Sample 124
+Input: 1 0 
+Output: 0.0767441 
+Target: 0 
+
+Sample 125
+Input: 0 1 
+Output: 0.00526645 
+Target: 0 
+
+Sample 126
+Input: 1 1 
+Output: 0.286994 
+Target: 1 
+
+Sample 127
+Input: 0 0 
+Output: -0.193725 
+Target: 0 
+
+Sample 128
+Input: 1 1 
+Output: 0.687305 
+Target: 1 
+
+Sample 129
+Input: 1 0 
+Output: 0.562868 
+Target: 0 
+
+Sample 130
+Input: 1 0 
+Output: 0.501021 
+Target: 0 
+
+Sample 131
+Input: 1 1 
+Output: 0.637638 
+Target: 1 
+
+Sample 132
+Input: 1 0 
+Output: 0.325989 
+Target: 0 
+
+Sample 133
+Input: 1 0 
+Output: 0.208323 
+Target: 0 
+
+Sample 134
+Input: 0 1 
+Output: 0.180693 
+Target: 0 
+
+Sample 135
+Input: 1 0 
+Output: -0.0637082 
+Target: 0 
+
+Sample 136
+Input: 0 0 
+Output: -0.402876 
+Target: 0 
+
+Sample 137
+Input: 1 1 
+Output: 0.331954 
+Target: 1 
+
+Sample 138
+Input: 1 0 
+Output: 0.220941 
+Target: 0 
+
+Sample 139
+Input: 1 0 
+Output: 0.269191 
+Target: 0 
+
+Sample 140
+Input: 0 0 
+Output: -0.232102 
+Target: 0 
+
+Sample 141
+Input: 1 0 
+Output: 0.205025 
+Target: 0 
+
+Sample 142
+Input: 1 0 
+Output: 0.131938 
+Target: 0 
+
+Sample 143
+Input: 0 0 
+Output: -0.271324 
+Target: 0 
+
+Sample 144
+Input: 1 1 
+Output: 0.486821 
+Target: 1 
+
+Sample 145
+Input: 1 1 
+Output: 0.630429 
+Target: 1 
+
+Sample 146
+Input: 0 1 
+Output: 0.567929 
+Target: 0 
+
+Sample 147
+Input: 0 1 
+Output: 0.518689 
+Target: 0 
+
+Sample 148
+Input: 1 1 
+Output: 0.610126 
+Target: 1 
+
+Sample 149
+Input: 1 0 
+Output: 0.228422 
+Target: 0 
+
+Sample 150
+Input: 1 1 
+Output: 0.584315 
+Target: 1 
+
+Sample 151
+Input: 0 1 
+Output: 0.385974 
+Target: 0 
+
+Sample 152
+Input: 1 1 
+Output: 0.600565 
+Target: 1 
+
+Sample 153
+Input: 0 1 
+Output: 0.356989 
+Target: 0 
+
+Sample 154
+Input: 0 0 
+Output: -0.335756 
+Target: 0 
+
+Sample 155
+Input: 1 0 
+Output: 0.193257 
+Target: 0 
+
+Sample 156
+Input: 0 1 
+Output: 0.223742 
+Target: 0 
+
+Sample 157
+Input: 0 0 
+Output: -0.362252 
+Target: 0 
+
+Sample 158
+Input: 0 1 
+Output: 0.120939 
+Target: 0 
+
+Sample 159
+Input: 1 0 
+Output: 0.0237084 
+Target: 0 
+
+Sample 160
+Input: 1 0 
+Output: 0.000281938 
+Target: 0 
+
+Sample 161
+Input: 1 1 
+Output: 0.360666 
+Target: 1 
+
+Sample 162
+Input: 0 0 
+Output: -0.231444 
+Target: 0 
+
+Sample 163
+Input: 0 0 
+Output: -0.1264 
+Target: 0 
+
+Sample 164
+Input: 0 0 
+Output: -0.0391991 
+Target: 0 
+
+Sample 165
+Input: 0 1 
+Output: 0.543134 
+Target: 0 
+
+Sample 166
+Input: 1 1 
+Output: 0.716851 
+Target: 1 
+
+Sample 167
+Input: 1 1 
+Output: 0.720655 
+Target: 1 
+
+Sample 168
+Input: 0 0 
+Output: -0.0274204 
+Target: 0 
+
+Sample 169
+Input: 0 1 
+Output: 0.508789 
+Target: 0 
+
+Sample 170
+Input: 1 0 
+Output: 0.433201 
+Target: 0 
+
+Sample 171
+Input: 0 0 
+Output: -0.203085 
+Target: 0 
+
+Sample 172
+Input: 0 1 
+Output: 0.171499 
+Target: 0 
+
+Sample 173
+Input: 0 0 
+Output: -0.248892 
+Target: 0 
+
+Sample 174
+Input: 0 0 
+Output: -0.212446 
+Target: 0 
+
+Sample 175
+Input: 0 1 
+Output: 0.13477 
+Target: 0 
+
+Sample 176
+Input: 1 0 
+Output: 0.158136 
+Target: 0 
+
+Sample 177
+Input: 1 1 
+Output: 0.351632 
+Target: 1 
+
+Sample 178
+Input: 0 0 
+Output: -0.0856407 
+Target: 0 
+
+Sample 179
+Input: 1 1 
+Output: 0.644741 
+Target: 1 
+
+Sample 180
+Input: 1 0 
+Output: 0.503114 
+Target: 0 
+
+Sample 181
+Input: 1 0 
+Output: 0.437239 
+Target: 0 
+
+Sample 182
+Input: 1 0 
+Output: 0.271374 
+Target: 0 
+
+Sample 183
+Input: 0 0 
+Output: -0.208844 
+Target: 0 
+
+Sample 184
+Input: 1 1 
+Output: 0.406503 
+Target: 1 
+
+Sample 185
+Input: 1 0 
+Output: 0.200759 
+Target: 0 
+
+Sample 186
+Input: 1 0 
+Output: 0.208722 
+Target: 0 
+
+Sample 187
+Input: 0 0 
+Output: -0.174829 
+Target: 0 
+
+Sample 188
+Input: 1 1 
+Output: 0.560394 
+Target: 1 
+
+Sample 189
+Input: 0 0 
+Output: -0.0917246 
+Target: 0 
+
+Sample 190
+Input: 1 1 
+Output: 0.71427 
+Target: 1 
+
+Sample 191
+Input: 0 0 
+Output: 0.0190643 
+Target: 0 
+
+Sample 192
+Input: 1 1 
+Output: 0.794726 
+Target: 1 
+
+Sample 193
+Input: 0 0 
+Output: 0.0663441 
+Target: 0 
+
+Sample 194
+Input: 1 0 
+Output: 0.507939 
+Target: 0 
+
+Sample 195
+Input: 0 0 
+Output: -0.0383458 
+Target: 0 
+
+Sample 196
+Input: 0 1 
+Output: 0.535789 
+Target: 0 
+
+Sample 197
+Input: 1 0 
+Output: 0.147458 
+Target: 0 
+
+Sample 198
+Input: 0 0 
+Output: -0.260284 
+Target: 0 
+
+Sample 199
+Input: 0 1 
+Output: 0.237508 
+Target: 0 
+
+Sample 200
+Input: 1 0 
+Output: -0.0830987 
+Target: 0 
+
+Sample 201
+Input: 0 1 
+Output: 0.116468 
+Target: 0 
+
+Sample 202
+Input: 1 1 
+Output: 0.323179 
+Target: 1 
+
+Sample 203
+Input: 1 0 
+Output: 0.103672 
+Target: 0 
+
+Sample 204
+Input: 0 1 
+Output: 0.354749 
+Target: 0 
+
+Sample 205
+Input: 0 0 
+Output: -0.233339 
+Target: 0 
+
+Sample 206
+Input: 1 1 
+Output: 0.578704 
+Target: 1 
+
+Sample 207
+Input: 1 1 
+Output: 0.67369 
+Target: 1 
+
+Sample 208
+Input: 0 1 
+Output: 0.50155 
+Target: 0 
+
+Sample 209
+Input: 0 0 
+Output: -0.128648 
+Target: 0 
+
+Sample 210
+Input: 1 0 
+Output: 0.340989 
+Target: 0 
+
+Sample 211
+Input: 0 0 
+Output: -0.187606 
+Target: 0 
+
+Sample 212
+Input: 1 0 
+Output: 0.194158 
+Target: 0 
+
+Sample 213
+Input: 0 1 
+Output: 0.237511 
+Target: 0 
+
+Sample 214
+Input: 0 1 
+Output: 0.112812 
+Target: 0 
+
+Sample 215
+Input: 1 0 
+Output: -0.109144 
+Target: 0 
+
+Sample 216
+Input: 0 1 
+Output: -0.0177247 
+Target: 0 
+
+Sample 217
+Input: 1 1 
+Output: 0.319928 
+Target: 1 
+
+Sample 218
+Input: 0 0 
+Output: -0.223379 
+Target: 0 
+
+Sample 219
+Input: 0 1 
+Output: 0.402036 
+Target: 0 
+
+Sample 220
+Input: 0 1 
+Output: 0.353185 
+Target: 0 
+
+Sample 221
+Input: 1 1 
+Output: 0.590575 
+Target: 1 
+
+Sample 222
+Input: 0 0 
+Output: -0.200678 
+Target: 0 
+
+Sample 223
+Input: 0 0 
+Output: -0.145467 
+Target: 0 
+
+Sample 224
+Input: 0 0 
+Output: -0.0780985 
+Target: 0 
+
+Sample 225
+Input: 1 0 
+Output: 0.440095 
+Target: 0 
+
+Sample 226
+Input: 1 0 
+Output: 0.329621 
+Target: 0 
+
+Sample 227
+Input: 0 0 
+Output: -0.169531 
+Target: 0 
+
+Sample 228
+Input: 0 1 
+Output: 0.149293 
+Target: 0 
+
+Sample 229
+Input: 0 1 
+Output: 0.0748265 
+Target: 0 
+
+Sample 230
+Input: 1 1 
+Output: 0.337157 
+Target: 1 
+
+Sample 231
+Input: 1 1 
+Output: 0.560315 
+Target: 1 
+
+Sample 232
+Input: 1 0 
+Output: 0.395007 
+Target: 0 
+
+Sample 233
+Input: 1 0 
+Output: 0.369255 
+Target: 0 
+
+Sample 234
+Input: 1 1 
+Output: 0.674401 
+Target: 1 
+
+Sample 235
+Input: 1 1 
+Output: 0.692994 
+Target: 1 
+
+Sample 236
+Input: 1 0 
+Output: 0.279766 
+Target: 0 
+
+Sample 237
+Input: 0 1 
+Output: 0.408906 
+Target: 0 
+
+Sample 238
+Input: 1 1 
+Output: 0.609884 
+Target: 1 
+
+Sample 239
+Input: 0 0 
+Output: -0.344099 
+Target: 0 
+
+Sample 240
+Input: 0 1 
+Output: 0.340894 
+Target: 0 
+
+Sample 241
+Input: 0 1 
+Output: 0.246922 
+Target: 0 
+
+Sample 242
+Input: 1 1 
+Output: 0.520628 
+Target: 1 
+
+Sample 243
+Input: 0 0 
+Output: -0.332036 
+Target: 0 
+
+Sample 244
+Input: 0 0 
+Output: -0.236888 
+Target: 0 
+
+Sample 245
+Input: 1 1 
+Output: 0.731064 
+Target: 1 
+
+Sample 246
+Input: 0 0 
+Output: -0.0420471 
+Target: 0 
+
+Sample 247
+Input: 1 1 
+Output: 0.807875 
+Target: 1 
+
+Sample 248
+Input: 1 0 
+Output: 0.539056 
+Target: 0 
+
+Sample 249
+Input: 1 0 
+Output: 0.420786 
+Target: 0 
+
+Sample 250
+Input: 0 1 
+Output: 0.355436 
+Target: 0 
+
+Sample 251
+Input: 1 1 
+Output: 0.508687 
+Target: 1 
+
+Sample 252
+Input: 1 0 
+Output: 0.0297648 
+Target: 0 
+
+Sample 253
+Input: 0 1 
+Output: 0.20885 
+Target: 0 
+
+Sample 254
+Input: 1 1 
+Output: 0.539637 
+Target: 1 
+
+Sample 255
+Input: 1 1 
+Output: 0.647259 
+Target: 1 
+
+Sample 256
+Input: 0 1 
+Output: 0.376855 
+Target: 0 
+
+Sample 257
+Input: 1 1 
+Output: 0.731854 
+Target: 1 
+
+Sample 258
+Input: 0 1 
+Output: 0.315781 
+Target: 0 
+
+Sample 259
+Input: 1 1 
+Output: 0.701534 
+Target: 1 
+
+Sample 260
+Input: 1 1 
+Output: 0.722757 
+Target: 1 
+
+Sample 261
+Input: 1 1 
+Output: 0.772134 
+Target: 1 
+
+Sample 262
+Input: 1 0 
+Output: 0.375623 
+Target: 0 
+
+Sample 263
+Input: 1 1 
+Output: 0.773841 
+Target: 1 
+
+Sample 264
+Input: 1 1 
+Output: 0.775934 
+Target: 1 
+
+Sample 265
+Input: 1 1 
+Output: 0.800885 
+Target: 1 
+
+Sample 266
+Input: 0 1 
+Output: 0.3592 
+Target: 0 
+
+Sample 267
+Input: 0 0 
+Output: -0.485376 
+Target: 0 
+
+Sample 268
+Input: 1 1 
+Output: 0.783686 
+Target: 1 
+
+Sample 269
+Input: 1 1 
+Output: 0.805901 
+Target: 1 
+
+Sample 270
+Input: 0 1 
+Output: 0.356789 
+Target: 0 
+
+Sample 271
+Input: 1 1 
+Output: 0.787136 
+Target: 1 
+
+Sample 272
+Input: 1 0 
+Output: 0.321248 
+Target: 0 
+
+Sample 273
+Input: 1 0 
+Output: 0.154519 
+Target: 0 
+
+Sample 274
+Input: 1 1 
+Output: 0.614244 
+Target: 1 
+
+Sample 275
+Input: 1 1 
+Output: 0.671326 
+Target: 1 
+
+Sample 276
+Input: 0 0 
+Output: -0.514785 
+Target: 0 
+
+Sample 277
+Input: 1 0 
+Output: 0.320327 
+Target: 0 
+
+Sample 278
+Input: 1 0 
+Output: 0.235338 
+Target: 0 
+
+Sample 279
+Input: 1 0 
+Output: 0.0574507 
+Target: 0 
+
+Sample 280
+Input: 0 0 
+Output: -0.502003 
+Target: 0 
+
+Sample 281
+Input: 0 0 
+Output: -0.422287 
+Target: 0 
+
+Sample 282
+Input: 0 1 
+Output: 0.293216 
+Target: 0 
+
+Sample 283
+Input: 1 1 
+Output: 0.651958 
+Target: 1 
+
+Sample 284
+Input: 1 0 
+Output: 0.155116 
+Target: 0 
+
+Sample 285
+Input: 0 1 
+Output: 0.25516 
+Target: 0 
+
+Sample 286
+Input: 0 0 
+Output: -0.313758 
+Target: 0 
+
+Sample 287
+Input: 1 1 
+Output: 0.588457 
+Target: 1 
+
+Sample 288
+Input: 0 0 
+Output: -0.188426 
+Target: 0 
+
+Sample 289
+Input: 1 1 
+Output: 0.74669 
+Target: 1 
+
+Sample 290
+Input: 1 0 
+Output: 0.395553 
+Target: 0 
+
+Sample 291
+Input: 0 1 
+Output: 0.408698 
+Target: 0 
+
+Sample 292
+Input: 1 1 
+Output: 0.651322 
+Target: 1 
+
+Sample 293
+Input: 1 1 
+Output: 0.664778 
+Target: 1 
+
+Sample 294
+Input: 0 1 
+Output: 0.306408 
+Target: 0 
+
+Sample 295
+Input: 0 0 
+Output: -0.24963 
+Target: 0 
+
+Sample 296
+Input: 1 0 
+Output: 0.199848 
+Target: 0 
+
+Sample 297
+Input: 1 1 
+Output: 0.652764 
+Target: 1 
+
+Sample 298
+Input: 0 0 
+Output: -0.21415 
+Target: 0 
+
+Sample 299
+Input: 1 1 
+Output: 0.740673 
+Target: 1 
+
+Sample 300
+Input: 1 0 
+Output: 0.350847 
+Target: 0 
+
+Sample 301
+Input: 1 1 
+Output: 0.750719 
+Target: 1 
+
+Sample 302
+Input: 0 0 
+Output: -0.14192 
+Target: 0 
+
+Sample 303
+Input: 1 1 
+Output: 0.777011 
+Target: 1 
+
+Sample 304
+Input: 1 0 
+Output: 0.332846 
+Target: 0 
+
+Sample 305
+Input: 0 0 
+Output: -0.129244 
+Target: 0 
+
+Sample 306
+Input: 1 1 
+Output: 0.749329 
+Target: 1 
+
+Sample 307
+Input: 0 1 
+Output: 0.438265 
+Target: 0 
+
+Sample 308
+Input: 1 0 
+Output: 0.107436 
+Target: 0 
+
+Sample 309
+Input: 0 0 
+Output: -0.242928 
+Target: 0 
+
+Sample 310
+Input: 1 1 
+Output: 0.613616 
+Target: 1 
+
+Sample 311
+Input: 1 1 
+Output: 0.702387 
+Target: 1 
+
+Sample 312
+Input: 0 1 
+Output: 0.423997 
+Target: 0 
+
+Sample 313
+Input: 1 0 
+Output: 0.203792 
+Target: 0 
+
+Sample 314
+Input: 0 0 
+Output: -0.223516 
+Target: 0 
+
+Sample 315
+Input: 0 1 
+Output: 0.188468 
+Target: 0 
+
+Sample 316
+Input: 1 1 
+Output: 0.583017 
+Target: 1 
+
+Sample 317
+Input: 1 1 
+Output: 0.669233 
+Target: 1 
+
+Sample 318
+Input: 0 0 
+Output: -0.145547 
+Target: 0 
+
+Sample 319
+Input: 0 1 
+Output: 0.414608 
+Target: 0 
+
+Sample 320
+Input: 1 1 
+Output: 0.768539 
+Target: 1 
+
+Sample 321
+Input: 0 0 
+Output: -0.137575 
+Target: 0 
+
+Sample 322
+Input: 1 0 
+Output: 0.325622 
+Target: 0 
+
+Sample 323
+Input: 1 1 
+Output: 0.720456 
+Target: 1 
+
+Sample 324
+Input: 0 0 
+Output: -0.165437 
+Target: 0 
+
+Sample 325
+Input: 1 0 
+Output: 0.231413 
+Target: 0 
+
+Sample 326
+Input: 1 1 
+Output: 0.70615 
+Target: 1 
+
+Sample 327
+Input: 1 1 
+Output: 0.734579 
+Target: 1 
+
+Sample 328
+Input: 0 0 
+Output: -0.116988 
+Target: 0 
+
+Sample 329
+Input: 0 0 
+Output: -0.063032 
+Target: 0 
+
+Sample 330
+Input: 1 0 
+Output: 0.352458 
+Target: 0 
+
+Sample 331
+Input: 0 0 
+Output: -0.0799466 
+Target: 0 
+
+Sample 332
+Input: 1 0 
+Output: 0.159149 
+Target: 0 
+
+Sample 333
+Input: 0 0 
+Output: -0.133093 
+Target: 0 
+
+Sample 334
+Input: 0 1 
+Output: 0.296128 
+Target: 0 
+
+Sample 335
+Input: 1 0 
+Output: -0.0858788 
+Target: 0 
+
+Sample 336
+Input: 1 0 
+Output: -0.0948956 
+Target: 0 
+
+Sample 337
+Input: 0 0 
+Output: -0.151297 
+Target: 0 
+
+Sample 338
+Input: 0 0 
+Output: -0.085644 
+Target: 0 
+
+Sample 339
+Input: 0 1 
+Output: 0.224891 
+Target: 0 
+
+Sample 340
+Input: 1 0 
+Output: 0.0279623 
+Target: 0 
+
+Sample 341
+Input: 0 0 
+Output: -0.0699849 
+Target: 0 
+
+Sample 342
+Input: 1 1 
+Output: 0.528507 
+Target: 1 
+
+Sample 343
+Input: 0 1 
+Output: 0.243653 
+Target: 0 
+
+Sample 344
+Input: 0 1 
+Output: 0.210256 
+Target: 0 
+
+Sample 345
+Input: 0 1 
+Output: 0.0890311 
+Target: 0 
+
+Sample 346
+Input: 1 0 
+Output: 0.00599298 
+Target: 0 
+
+Sample 347
+Input: 1 1 
+Output: 0.510439 
+Target: 1 
+
+Sample 348
+Input: 0 0 
+Output: -0.123301 
+Target: 0 
+
+Sample 349
+Input: 1 1 
+Output: 0.737865 
+Target: 1 
+
+Sample 350
+Input: 1 1 
+Output: 0.800682 
+Target: 1 
+
+Sample 351
+Input: 1 0 
+Output: 0.458386 
+Target: 0 
+
+Sample 352
+Input: 1 0 
+Output: 0.315378 
+Target: 0 
+
+Sample 353
+Input: 1 0 
+Output: 0.0702177 
+Target: 0 
+
+Sample 354
+Input: 1 0 
+Output: -0.097876 
+Target: 0 
+
+Sample 355
+Input: 0 0 
+Output: -0.255736 
+Target: 0 
+
+Sample 356
+Input: 0 0 
+Output: -0.175879 
+Target: 0 
+
+Sample 357
+Input: 1 0 
+Output: 0.0193859 
+Target: 0 
+
+Sample 358
+Input: 1 1 
+Output: 0.650272 
+Target: 1 
+
+Sample 359
+Input: 0 1 
+Output: 0.308884 
+Target: 0 
+
+Sample 360
+Input: 0 0 
+Output: -0.0152375 
+Target: 0 
+
+Sample 361
+Input: 1 0 
+Output: 0.0961989 
+Target: 0 
+
+Sample 362
+Input: 1 0 
+Output: 0.0319762 
+Target: 0 
+
+Sample 363
+Input: 1 1 
+Output: 0.607994 
+Target: 1 
+
+Sample 364
+Input: 1 1 
+Output: 0.698669 
+Target: 1 
+
+Sample 365
+Input: 1 0 
+Output: 0.220927 
+Target: 0 
+
+Sample 366
+Input: 0 1 
+Output: 0.309502 
+Target: 0 
+
+Sample 367
+Input: 1 0 
+Output: 0.0203398 
+Target: 0 
+
+Sample 368
+Input: 1 0 
+Output: -0.0652079 
+Target: 0 
+
+Sample 369
+Input: 0 1 
+Output: 0.0290255 
+Target: 0 
+
+Sample 370
+Input: 0 0 
+Output: -0.243264 
+Target: 0 
+
+Sample 371
+Input: 1 1 
+Output: 0.649046 
+Target: 1 
+
+Sample 372
+Input: 0 0 
+Output: -0.0900925 
+Target: 0 
+
+Sample 373
+Input: 1 0 
+Output: 0.223253 
+Target: 0 
+
+Sample 374
+Input: 0 1 
+Output: 0.244126 
+Target: 0 
+
+Sample 375
+Input: 0 1 
+Output: 0.0943883 
+Target: 0 
+
+Sample 376
+Input: 0 1 
+Output: -0.0359257 
+Target: 0 
+
+Sample 377
+Input: 1 1 
+Output: 0.560558 
+Target: 1 
+
+Sample 378
+Input: 0 1 
+Output: 0.0656607 
+Target: 0 
+
+Sample 379
+Input: 1 1 
+Output: 0.726161 
+Target: 1 
+
+Sample 380
+Input: 0 0 
+Output: -0.143121 
+Target: 0 
+
+Sample 381
+Input: 0 1 
+Output: 0.274813 
+Target: 0 
+
+Sample 382
+Input: 1 1 
+Output: 0.78121 
+Target: 1 
+
+Sample 383
+Input: 1 1 
+Output: 0.78739 
+Target: 1 
+
+Sample 384
+Input: 1 1 
+Output: 0.812786 
+Target: 1 
+
+Sample 385
+Input: 0 0 
+Output: -0.0995519 
+Target: 0 
+
+Sample 386
+Input: 0 0 
+Output: -0.0537096 
+Target: 0 
+
+Sample 387
+Input: 0 0 
+Output: -0.00990165 
+Target: 0 
+
+Sample 388
+Input: 0 1 
+Output: 0.36752 
+Target: 0 
+
+Sample 389
+Input: 1 1 
+Output: 0.822186 
+Target: 1 
+
+Sample 390
+Input: 0 0 
+Output: -0.0957239 
+Target: 0 
+
+Sample 391
+Input: 0 0 
+Output: -0.074259 
+Target: 0 
+
+Sample 392
+Input: 1 0 
+Output: 0.345127 
+Target: 0 
+
+Sample 393
+Input: 0 0 
+Output: -0.105271 
+Target: 0 
+
+Sample 394
+Input: 1 1 
+Output: 0.704836 
+Target: 1 
+
+Sample 395
+Input: 0 1 
+Output: 0.0714413 
+Target: 0 
+
+Sample 396
+Input: 1 0 
+Output: 0.166349 
+Target: 0 
+
+Sample 397
+Input: 0 1 
+Output: -0.0107957 
+Target: 0 
+
+Sample 398
+Input: 1 0 
+Output: 0.0136041 
+Target: 0 
+
+Sample 399
+Input: 1 1 
+Output: 0.662402 
+Target: 1 
+
+Sample 400
+Input: 1 1 
+Output: 0.735041 
+Target: 1 
+
+Sample 401
+Input: 0 1 
+Output: 0.156391 
+Target: 0 
+
+Sample 402
+Input: 1 0 
+Output: 0.190534 
+Target: 0 
+
+Sample 403
+Input: 0 0 
+Output: -0.211034 
+Target: 0 
+
+Sample 404
+Input: 1 0 
+Output: 0.0618284 
+Target: 0 
+
+Sample 405
+Input: 1 0 
+Output: 0.0206207 
+Target: 0 
+
+Sample 406
+Input: 0 1 
+Output: -0.0101658 
+Target: 0 
+
+Sample 407
+Input: 1 0 
+Output: -0.0258794 
+Target: 0 
+
+Sample 408
+Input: 1 1 
+Output: 0.705285 
+Target: 1 
+
+Sample 409
+Input: 0 1 
+Output: 0.0878433 
+Target: 0 
+
+Sample 410
+Input: 0 0 
+Output: -0.141195 
+Target: 0 
+
+Sample 411
+Input: 1 0 
+Output: 0.135996 
+Target: 0 
+
+Sample 412
+Input: 1 0 
+Output: 0.07083 
+Target: 0 
+
+Sample 413
+Input: 0 0 
+Output: -0.138431 
+Target: 0 
+
+Sample 414
+Input: 0 1 
+Output: 0.0396524 
+Target: 0 
+
+Sample 415
+Input: 0 1 
+Output: 0.0230742 
+Target: 0 
+
+Sample 416
+Input: 1 0 
+Output: -0.0368686 
+Target: 0 
+
+Sample 417
+Input: 1 1 
+Output: 0.68663 
+Target: 1 
+
+Sample 418
+Input: 0 1 
+Output: 0.104174 
+Target: 0 
+
+Sample 419
+Input: 1 0 
+Output: 0.0908324 
+Target: 0 
+
+Sample 420
+Input: 0 1 
+Output: 0.042181 
+Target: 0 
+
+Sample 421
+Input: 0 0 
+Output: -0.129556 
+Target: 0 
+
+Sample 422
+Input: 0 0 
+Output: -0.0921816 
+Target: 0 
+
+Sample 423
+Input: 0 0 
+Output: -0.0351698 
+Target: 0 
+
+Sample 424
+Input: 0 1 
+Output: 0.0692003 
+Target: 0 
+
+Sample 425
+Input: 0 0 
+Output: 0.00893666 
+Target: 0 
+
+Sample 426
+Input: 0 1 
+Output: 0.0247532 
+Target: 0 
+
+Sample 427
+Input: 1 1 
+Output: 0.688524 
+Target: 1 
+
+Sample 428
+Input: 1 1 
+Output: 0.748195 
+Target: 1 
+
+Sample 429
+Input: 0 0 
+Output: 0.048809 
+Target: 0 
+
+Sample 430
+Input: 1 0 
+Output: 0.266988 
+Target: 0 
+
+Sample 431
+Input: 1 0 
+Output: 0.122018 
+Target: 0 
+
+Sample 432
+Input: 0 1 
+Output: 0.0336426 
+Target: 0 
+
+Sample 433
+Input: 1 1 
+Output: 0.692122 
+Target: 1 
+
+Sample 434
+Input: 1 0 
+Output: -0.0771674 
+Target: 0 
+
+Sample 435
+Input: 1 1 
+Output: 0.779391 
+Target: 1 
+
+Sample 436
+Input: 1 0 
+Output: 0.0960883 
+Target: 0 
+
+Sample 437
+Input: 1 0 
+Output: 0.0752211 
+Target: 0 
+
+Sample 438
+Input: 0 0 
+Output: -0.159506 
+Target: 0 
+
+Sample 439
+Input: 1 0 
+Output: 0.0307236 
+Target: 0 
+
+Sample 440
+Input: 1 1 
+Output: 0.802351 
+Target: 1 
+
+Sample 441
+Input: 1 1 
+Output: 0.81984 
+Target: 1 
+
+Sample 442
+Input: 1 1 
+Output: 0.84302 
+Target: 1 
+
+Sample 443
+Input: 1 1 
+Output: 0.863437 
+Target: 1 
+
+Sample 444
+Input: 1 1 
+Output: 0.879303 
+Target: 1 
+
+Sample 445
+Input: 1 0 
+Output: 0.252763 
+Target: 0 
+
+Sample 446
+Input: 1 1 
+Output: 0.863846 
+Target: 1 
+
+Sample 447
+Input: 0 0 
+Output: -0.120672 
+Target: 0 
+
+Sample 448
+Input: 0 1 
+Output: 0.320164 
+Target: 0 
+
+Sample 449
+Input: 1 1 
+Output: 0.797904 
+Target: 1 
+
+Sample 450
+Input: 0 1 
+Output: 0.0860972 
+Target: 0 
+
+Sample 451
+Input: 0 0 
+Output: -0.213641 
+Target: 0 
+
+Sample 452
+Input: 1 0 
+Output: -0.101762 
+Target: 0 
+
+Sample 453
+Input: 0 0 
+Output: -0.0763793 
+Target: 0 
+
+Sample 454
+Input: 0 0 
+Output: -0.0084488 
+Target: 0 
+
+Sample 455
+Input: 1 1 
+Output: 0.807904 
+Target: 1 
+
+Sample 456
+Input: 0 1 
+Output: 0.217967 
+Target: 0 
+
+Sample 457
+Input: 1 1 
+Output: 0.799089 
+Target: 1 
+
+Sample 458
+Input: 0 0 
+Output: -0.00444743 
+Target: 0 
+
+Sample 459
+Input: 1 1 
+Output: 0.807966 
+Target: 1 
+
+Sample 460
+Input: 1 0 
+Output: 0.158326 
+Target: 0 
+
+Sample 461
+Input: 1 1 
+Output: 0.806579 
+Target: 1 
+
+Sample 462
+Input: 1 1 
+Output: 0.815637 
+Target: 1 
+
+Sample 463
+Input: 1 0 
+Output: 0.106321 
+Target: 0 
+
+Sample 464
+Input: 1 1 
+Output: 0.826908 
+Target: 1 
+
+Sample 465
+Input: 1 1 
+Output: 0.836862 
+Target: 1 
+
+Sample 466
+Input: 0 0 
+Output: -0.0940099 
+Target: 0 
+
+Sample 467
+Input: 1 0 
+Output: 0.136769 
+Target: 0 
+
+Sample 468
+Input: 0 0 
+Output: -0.0746966 
+Target: 0 
+
+Sample 469
+Input: 0 0 
+Output: -0.053505 
+Target: 0 
+
+Sample 470
+Input: 1 0 
+Output: 0.0590028 
+Target: 0 
+
+Sample 471
+Input: 0 1 
+Output: 0.186112 
+Target: 0 
+
+Sample 472
+Input: 1 0 
+Output: -0.083652 
+Target: 0 
+
+Sample 473
+Input: 1 1 
+Output: 0.776743 
+Target: 1 
+
+Sample 474
+Input: 0 0 
+Output: -0.0657067 
+Target: 0 
+
+Sample 475
+Input: 0 0 
+Output: -0.0287346 
+Target: 0 
+
+Sample 476
+Input: 1 0 
+Output: 0.0743237 
+Target: 0 
+
+Sample 477
+Input: 1 0 
+Output: 0.0381761 
+Target: 0 
+
+Sample 478
+Input: 1 1 
+Output: 0.805112 
+Target: 1 
+
+Sample 479
+Input: 0 0 
+Output: -0.0222709 
+Target: 0 
+
+Sample 480
+Input: 0 0 
+Output: -0.0109555 
+Target: 0 
+
+Sample 481
+Input: 0 1 
+Output: 0.155325 
+Target: 0 
+
+Sample 482
+Input: 0 0 
+Output: -0.0435284 
+Target: 0 
+
+Sample 483
+Input: 1 0 
+Output: -0.0419482 
+Target: 0 
+
+Sample 484
+Input: 0 0 
+Output: -0.0315612 
+Target: 0 
+
+Sample 485
+Input: 1 0 
+Output: 0.000783121 
+Target: 0 
+
+Sample 486
+Input: 0 0 
+Output: 5.82588e-05 
+Target: 0 
+
+Sample 487
+Input: 0 1 
+Output: 0.0420401 
+Target: 0 
+
+Sample 488
+Input: 0 1 
+Output: 0.0145203 
+Target: 0 
+
+Sample 489
+Input: 1 1 
+Output: 0.777071 
+Target: 1 
+
+Sample 490
+Input: 0 0 
+Output: -0.00644707 
+Target: 0 
+
+Sample 491
+Input: 1 1 
+Output: 0.816299 
+Target: 1 
+
+Sample 492
+Input: 0 1 
+Output: 0.110859 
+Target: 0 
+
+Sample 493
+Input: 0 1 
+Output: 0.0592833 
+Target: 0 
+
+Sample 494
+Input: 1 1 
+Output: 0.811694 
+Target: 1 
+
+Sample 495
+Input: 0 1 
+Output: -0.00106901 
+Target: 0 
+
+Sample 496
+Input: 1 1 
+Output: 0.827879 
+Target: 1 
+
+Sample 497
+Input: 0 0 
+Output: -0.048681 
+Target: 0 
+
+Sample 498
+Input: 1 0 
+Output: 0.155471 
+Target: 0 
+
+Sample 499
+Input: 1 0 
+Output: 0.0561731 
+Target: 0 
+
+Sample 500
+Input: 0 1 
+Output: -0.040918 
+Target: 0 
+
+Sample 501
+Input: 0 1 
+Output: -0.0403536 
+Target: 0 
+
+Sample 502
+Input: 1 0 
+Output: -0.055997 
+Target: 0 
+
+Sample 503
+Input: 1 0 
+Output: -0.00996062 
+Target: 0 
+
+Sample 504
+Input: 0 0 
+Output: -0.0553086 
+Target: 0 
+
+Sample 505
+Input: 1 0 
+Output: 0.0552577 
+Target: 0 
+
+Sample 506
+Input: 0 1 
+Output: 0.0765574 
+Target: 0 
+
+Sample 507
+Input: 0 0 
+Output: -0.0502446 
+Target: 0 
+
+Sample 508
+Input: 1 0 
+Output: -0.0274089 
+Target: 0 
+
+Sample 509
+Input: 0 0 
+Output: -0.0251517 
+Target: 0 
+
+Sample 510
+Input: 0 1 
+Output: 0.0201907 
+Target: 0 
+
+Sample 511
+Input: 1 1 
+Output: 0.804732 
+Target: 1 
+
+Sample 512
+Input: 1 0 
+Output: 0.0499555 
+Target: 0 
+
+Sample 513
+Input: 0 0 
+Output: -0.00138981 
+Target: 0 
+
+Sample 514
+Input: 0 1 
+Output: 0.0459061 
+Target: 0 
+
+Sample 515
+Input: 1 1 
+Output: 0.813477 
+Target: 1 
+
+Sample 516
+Input: 0 0 
+Output: -0.0220855 
+Target: 0 
+
+Sample 517
+Input: 0 0 
+Output: -0.0109796 
+Target: 0 
+
+Sample 518
+Input: 1 1 
+Output: 0.840187 
+Target: 1 
+
+Sample 519
+Input: 0 1 
+Output: 0.106655 
+Target: 0 
+
+Sample 520
+Input: 0 1 
+Output: 0.0483719 
+Target: 0 
+
+Sample 521
+Input: 0 0 
+Output: -0.0455774 
+Target: 0 
+
+Sample 522
+Input: 0 1 
+Output: -0.0329748 
+Target: 0 
+
+Sample 523
+Input: 1 1 
+Output: 0.823248 
+Target: 1 
+
+Sample 524
+Input: 1 0 
+Output: 0.0859151 
+Target: 0 
+
+Sample 525
+Input: 0 0 
+Output: -0.0303339 
+Target: 0 
+
+Sample 526
+Input: 1 1 
+Output: 0.830377 
+Target: 1 
+
+Sample 527
+Input: 0 0 
+Output: -0.0165771 
+Target: 0 
+
+Sample 528
+Input: 0 0 
+Output: -0.00362138 
+Target: 0 
+
+Sample 529
+Input: 1 1 
+Output: 0.854655 
+Target: 1 
+
+Sample 530
+Input: 0 0 
+Output: 0.0148473 
+Target: 0 
+
+Sample 531
+Input: 0 0 
+Output: 0.0130079 
+Target: 0 
+
+Sample 532
+Input: 1 1 
+Output: 0.872363 
+Target: 1 
+
+Sample 533
+Input: 1 0 
+Output: 0.157398 
+Target: 0 
+
+Sample 534
+Input: 1 1 
+Output: 0.857966 
+Target: 1 
+
+Sample 535
+Input: 0 1 
+Output: 0.0636055 
+Target: 0 
+
+Sample 536
+Input: 0 0 
+Output: -0.097507 
+Target: 0 
+
+Sample 537
+Input: 0 1 
+Output: 0.0165736 
+Target: 0 
+
+Sample 538
+Input: 1 0 
+Output: -0.0283508 
+Target: 0 
+
+Sample 539
+Input: 1 1 
+Output: 0.838267 
+Target: 1 
+
+Sample 540
+Input: 0 1 
+Output: 0.0542524 
+Target: 0 
+
+Sample 541
+Input: 1 0 
+Output: 0.0296696 
+Target: 0 
+
+Sample 542
+Input: 1 1 
+Output: 0.843034 
+Target: 1 
+
+Sample 543
+Input: 1 0 
+Output: 0.0208402 
+Target: 0 
+
+Sample 544
+Input: 0 0 
+Output: -0.0618269 
+Target: 0 
+
+Sample 545
+Input: 1 0 
+Output: 0.0310193 
+Target: 0 
+
+Sample 546
+Input: 1 0 
+Output: 0.0150496 
+Target: 0 
+
+Sample 547
+Input: 1 0 
+Output: -0.00496649 
+Target: 0 
+
+Sample 548
+Input: 1 0 
+Output: -0.0109834 
+Target: 0 
+
+Sample 549
+Input: 1 1 
+Output: 0.845069 
+Target: 1 
+
+Sample 550
+Input: 1 1 
+Output: 0.857536 
+Target: 1 
+
+Sample 551
+Input: 1 0 
+Output: 0.0710699 
+Target: 0 
+
+Sample 552
+Input: 0 1 
+Output: 0.0835649 
+Target: 0 
+
+Sample 553
+Input: 0 1 
+Output: 0.0116255 
+Target: 0 
+
+Sample 554
+Input: 0 0 
+Output: -0.0960553 
+Target: 0 
+
+Sample 555
+Input: 1 0 
+Output: -0.0477476 
+Target: 0 
+
+Sample 556
+Input: 0 1 
+Output: 0.00606565 
+Target: 0 
+
+Sample 557
+Input: 0 0 
+Output: -0.0120671 
+Target: 0 
+
+Sample 558
+Input: 1 1 
+Output: 0.850183 
+Target: 1 
+
+Sample 559
+Input: 0 1 
+Output: 0.0579622 
+Target: 0 
+
+Sample 560
+Input: 0 1 
+Output: 0.0305712 
+Target: 0 
+
+Sample 561
+Input: 0 1 
+Output: -0.00619356 
+Target: 0 
+
+Sample 562
+Input: 1 1 
+Output: 0.84656 
+Target: 1 
+
+Sample 563
+Input: 0 1 
+Output: 0.0026751 
+Target: 0 
+
+Sample 564
+Input: 0 1 
+Output: 0.0119995 
+Target: 0 
+
+Sample 565
+Input: 0 0 
+Output: -0.0196179 
+Target: 0 
+
+Sample 566
+Input: 0 1 
+Output: 0.0119347 
+Target: 0 
+
+Sample 567
+Input: 1 0 
+Output: 0.0689442 
+Target: 0 
+
+Sample 568
+Input: 1 1 
+Output: 0.846476 
+Target: 1 
+
+Sample 569
+Input: 0 1 
+Output: -0.0242017 
+Target: 0 
+
+Sample 570
+Input: 0 0 
+Output: -0.0361578 
+Target: 0 
+
+Sample 571
+Input: 0 0 
+Output: -0.0158103 
+Target: 0 
+
+Sample 572
+Input: 1 1 
+Output: 0.86565 
+Target: 1 
+
+Sample 573
+Input: 0 1 
+Output: 0.0721112 
+Target: 0 
+
+Sample 574
+Input: 1 0 
+Output: 0.0707046 
+Target: 0 
+
+Sample 575
+Input: 1 1 
+Output: 0.850866 
+Target: 1 
+
+Sample 576
+Input: 0 1 
+Output: -0.0241889 
+Target: 0 
+
+Sample 577
+Input: 1 1 
+Output: 0.858705 
+Target: 1 
+
+Sample 578
+Input: 1 1 
+Output: 0.870582 
+Target: 1 
+
+Sample 579
+Input: 0 1 
+Output: 0.0687312 
+Target: 0 
+
+Sample 580
+Input: 1 0 
+Output: 0.0577657 
+Target: 0 
+
+Sample 581
+Input: 1 0 
+Output: 0.000175734 
+Target: 0 
+
+Sample 582
+Input: 0 0 
+Output: -0.0891936 
+Target: 0 
+
+Sample 583
+Input: 1 0 
+Output: -0.0111299 
+Target: 0 
+
+Sample 584
+Input: 0 0 
+Output: -0.0313992 
+Target: 0 
+
+Sample 585
+Input: 0 0 
+Output: -0.00494272 
+Target: 0 
+
+Sample 586
+Input: 0 0 
+Output: 0.0107262 
+Target: 0 
+
+Sample 587
+Input: 1 0 
+Output: 0.0414178 
+Target: 0 
+
+Sample 588
+Input: 0 0 
+Output: -0.000331368 
+Target: 0 
+
+Sample 589
+Input: 1 1 
+Output: 0.85466 
+Target: 1 
+
+Sample 590
+Input: 1 0 
+Output: 0.0114014 
+Target: 0 
+
+Sample 591
+Input: 0 1 
+Output: 0.0218638 
+Target: 0 
+
+Sample 592
+Input: 1 1 
+Output: 0.862221 
+Target: 1 
+
+Sample 593
+Input: 0 0 
+Output: -0.0142148 
+Target: 0 
+
+Sample 594
+Input: 1 0 
+Output: 0.0346302 
+Target: 0 
+
+Sample 595
+Input: 0 0 
+Output: -0.0152503 
+Target: 0 
+
+Sample 596
+Input: 1 1 
+Output: 0.868511 
+Target: 1 
+
+Sample 597
+Input: 1 0 
+Output: 0.0281707 
+Target: 0 
+
+Sample 598
+Input: 0 0 
+Output: -0.0121797 
+Target: 0 
+
+Sample 599
+Input: 0 0 
+Output: -0.00956791 
+Target: 0 
+
+Sample 600
+Input: 0 1 
+Output: 0.0507054 
+Target: 0 
+
+Sample 601
+Input: 1 1 
+Output: 0.865895 
+Target: 1 
+
+Sample 602
+Input: 1 1 
+Output: 0.869891 
+Target: 1 
+
+Sample 603
+Input: 1 1 
+Output: 0.879236 
+Target: 1 
+
+Sample 604
+Input: 1 0 
+Output: 0.0618416 
+Target: 0 
+
+Sample 605
+Input: 1 0 
+Output: 0.0259893 
+Target: 0 
+
+Sample 606
+Input: 1 1 
+Output: 0.878564 
+Target: 1 
+
+Sample 607
+Input: 1 1 
+Output: 0.881546 
+Target: 1 
+
+Sample 608
+Input: 1 0 
+Output: 0.00466496 
+Target: 0 
+
+Sample 609
+Input: 1 0 
+Output: 0.0101868 
+Target: 0 
+
+Sample 610
+Input: 1 0 
+Output: 0.00412129 
+Target: 0 
+
+Sample 611
+Input: 1 1 
+Output: 0.890603 
+Target: 1 
+
+Sample 612
+Input: 1 0 
+Output: 0.0105719 
+Target: 0 
+
+Sample 613
+Input: 1 0 
+Output: 0.00790268 
+Target: 0 
+
+Sample 614
+Input: 1 0 
+Output: -0.00032757 
+Target: 0 
+
+Sample 615
+Input: 1 0 
+Output: -0.00415729 
+Target: 0 
+
+Sample 616
+Input: 1 0 
+Output: -0.00244808 
+Target: 0 
+
+Sample 617
+Input: 1 1 
+Output: 0.895135 
+Target: 1 
+
+Sample 618
+Input: 0 0 
+Output: -0.0616596 
+Target: 0 
+
+Sample 619
+Input: 1 1 
+Output: 0.903317 
+Target: 1 
+
+Sample 620
+Input: 1 0 
+Output: 0.0762927 
+Target: 0 
+
+Sample 621
+Input: 0 0 
+Output: -0.0283563 
+Target: 0 
+
+Sample 622
+Input: 0 0 
+Output: -0.0233192 
+Target: 0 
+
+Sample 623
+Input: 1 1 
+Output: 0.896921 
+Target: 1 
+
+Sample 624
+Input: 0 1 
+Output: 0.146457 
+Target: 0 
+
+Sample 625
+Input: 1 1 
+Output: 0.880629 
+Target: 1 
+
+Sample 626
+Input: 1 1 
+Output: 0.875841 
+Target: 1 
+
+Sample 627
+Input: 0 1 
+Output: 0.00451811 
+Target: 0 
+
+Sample 628
+Input: 0 0 
+Output: -0.0682189 
+Target: 0 
+
+Sample 629
+Input: 1 1 
+Output: 0.884818 
+Target: 1 
+
+Sample 630
+Input: 0 0 
+Output: -0.0155573 
+Target: 0 
+
+Sample 631
+Input: 1 0 
+Output: 0.0337176 
+Target: 0 
+
+Sample 632
+Input: 1 0 
+Output: 0.0152555 
+Target: 0 
+
+Sample 633
+Input: 1 1 
+Output: 0.88849 
+Target: 1 
+
+Sample 634
+Input: 1 1 
+Output: 0.891511 
+Target: 1 
+
+Sample 635
+Input: 1 0 
+Output: 0.01783 
+Target: 0 
+
+Sample 636
+Input: 0 0 
+Output: -0.00965351 
+Target: 0 
+
+Sample 637
+Input: 0 0 
+Output: -0.0071742 
+Target: 0 
+
+Sample 638
+Input: 0 0 
+Output: -0.00228833 
+Target: 0 
+
+Sample 639
+Input: 1 0 
+Output: 0.017754 
+Target: 0 
+
+Sample 640
+Input: 1 1 
+Output: 0.896734 
+Target: 1 
+
+Sample 641
+Input: 0 0 
+Output: -0.00269892 
+Target: 0 
+
+Sample 642
+Input: 0 1 
+Output: 0.105003 
+Target: 0 
+
+Sample 643
+Input: 0 0 
+Output: -0.0360015 
+Target: 0 
+
+Sample 644
+Input: 1 1 
+Output: 0.879651 
+Target: 1 
+
+Sample 645
+Input: 0 1 
+Output: -0.00218181 
+Target: 0 
+
+Sample 646
+Input: 0 0 
+Output: -0.0272128 
+Target: 0 
+
+Sample 647
+Input: 0 0 
+Output: -0.0117337 
+Target: 0 
+
+Sample 648
+Input: 1 0 
+Output: -0.00809184 
+Target: 0 
+
+Sample 649
+Input: 0 0 
+Output: 0.0118888 
+Target: 0 
+
+Sample 650
+Input: 1 1 
+Output: 0.88984 
+Target: 1 
+
+Sample 651
+Input: 0 1 
+Output: 0.0507251 
+Target: 0 
+
+Sample 652
+Input: 0 1 
+Output: 0.0174762 
+Target: 0 
+
+Sample 653
+Input: 1 0 
+Output: -0.0140051 
+Target: 0 
+
+Sample 654
+Input: 1 0 
+Output: -0.0113703 
+Target: 0 
+
+Sample 655
+Input: 1 0 
+Output: -8.22847e-05 
+Target: 0 
+
+Sample 656
+Input: 0 0 
+Output: -0.0133954 
+Target: 0 
+
+Sample 657
+Input: 1 0 
+Output: 0.0134626 
+Target: 0 
+
+Sample 658
+Input: 1 1 
+Output: 0.88578 
+Target: 1 
+
+Sample 659
+Input: 1 0 
+Output: 0.0198331 
+Target: 0 
+
+Sample 660
+Input: 1 0 
+Output: 0.00950516 
+Target: 0 
+
+Sample 661
+Input: 0 1 
+Output: -0.0118641 
+Target: 0 
+
+Sample 662
+Input: 0 1 
+Output: -0.00559647 
+Target: 0 
+
+Sample 663
+Input: 0 1 
+Output: 0.00213939 
+Target: 0 
+
+Sample 664
+Input: 1 0 
+Output: -0.000917565 
+Target: 0 
+
+Sample 665
+Input: 0 0 
+Output: -0.0111278 
+Target: 0 
+
+Sample 666
+Input: 0 0 
+Output: -0.00513344 
+Target: 0 
+
+Sample 667
+Input: 0 0 
+Output: 0.000496731 
+Target: 0 
+
+Sample 668
+Input: 1 1 
+Output: 0.891454 
+Target: 1 
+
+Sample 669
+Input: 1 0 
+Output: 0.0282411 
+Target: 0 
+
+Sample 670
+Input: 0 1 
+Output: 0.0264193 
+Target: 0 
+
+Sample 671
+Input: 1 0 
+Output: -0.0107539 
+Target: 0 
+
+Sample 672
+Input: 1 1 
+Output: 0.888656 
+Target: 1 
+
+Sample 673
+Input: 1 0 
+Output: 0.00377734 
+Target: 0 
+
+Sample 674
+Input: 0 1 
+Output: 0.0126919 
+Target: 0 
+
+Sample 675
+Input: 1 0 
+Output: 0.0040566 
+Target: 0 
+
+Sample 676
+Input: 1 0 
+Output: -0.00186392 
+Target: 0 
+
+Sample 677
+Input: 0 0 
+Output: -0.0235174 
+Target: 0 
+
+Sample 678
+Input: 1 0 
+Output: 0.00493414 
+Target: 0 
+
+Sample 679
+Input: 1 0 
+Output: 0.00461169 
+Target: 0 
+
+Sample 680
+Input: 0 0 
+Output: -0.00788502 
+Target: 0 
+
+Sample 681
+Input: 1 0 
+Output: 0.00118829 
+Target: 0 
+
+Sample 682
+Input: 0 1 
+Output: 0.00380474 
+Target: 0 
+
+Sample 683
+Input: 1 0 
+Output: -0.0018848 
+Target: 0 
+
+Sample 684
+Input: 1 0 
+Output: -0.00143897 
+Target: 0 
+
+Sample 685
+Input: 1 0 
+Output: 5.33491e-05 
+Target: 0 
+
+Sample 686
+Input: 1 1 
+Output: 0.890789 
+Target: 1 
+
+Sample 687
+Input: 0 0 
+Output: 0.00272832 
+Target: 0 
+
+Sample 688
+Input: 0 0 
+Output: 0.00319579 
+Target: 0 
+
+Sample 689
+Input: 1 0 
+Output: 0.0280504 
+Target: 0 
+
+Sample 690
+Input: 1 1 
+Output: 0.89522 
+Target: 1 
+
+Sample 691
+Input: 1 0 
+Output: 0.00802642 
+Target: 0 
+
+Sample 692
+Input: 1 1 
+Output: 0.897703 
+Target: 1 
+
+Sample 693
+Input: 0 1 
+Output: 0.0347897 
+Target: 0 
+
+Sample 694
+Input: 1 0 
+Output: 0.00133901 
+Target: 0 
+
+Sample 695
+Input: 0 1 
+Output: 0.00090253 
+Target: 0 
+
+Sample 696
+Input: 0 1 
+Output: -0.00575154 
+Target: 0 
+
+Sample 697
+Input: 0 1 
+Output: -0.00425829 
+Target: 0 
+
+Sample 698
+Input: 0 1 
+Output: 5.98267e-05 
+Target: 0 
+
+Sample 699
+Input: 0 0 
+Output: -0.033538 
+Target: 0 
+
+Sample 700
+Input: 1 1 
+Output: 0.898839 
+Target: 1 
+
+Sample 701
+Input: 0 1 
+Output: 0.0356477 
+Target: 0 
+
+Sample 702
+Input: 0 0 
+Output: -0.0105228 
+Target: 0 
+
+Sample 703
+Input: 0 0 
+Output: -0.00836573 
+Target: 0 
+
+Sample 704
+Input: 1 1 
+Output: 0.899167 
+Target: 1 
+
+Sample 705
+Input: 1 0 
+Output: 0.0367973 
+Target: 0 
+
+Sample 706
+Input: 1 0 
+Output: 0.0116057 
+Target: 0 
+
+Sample 707
+Input: 1 1 
+Output: 0.895984 
+Target: 1 
+
+Sample 708
+Input: 1 0 
+Output: -0.00748877 
+Target: 0 
+
+Sample 709
+Input: 0 1 
+Output: 0.0136105 
+Target: 0 
+
+Sample 710
+Input: 0 0 
+Output: -0.0213396 
+Target: 0 
+
+Sample 711
+Input: 0 1 
+Output: 0.0102471 
+Target: 0 
+
+Sample 712
+Input: 0 0 
+Output: -0.0112119 
+Target: 0 
+
+Sample 713
+Input: 1 0 
+Output: 0.00446836 
+Target: 0 
+
+Sample 714
+Input: 1 1 
+Output: 0.89776 
+Target: 1 
+
+Sample 715
+Input: 1 1 
+Output: 0.901319 
+Target: 1 
+
+Sample 716
+Input: 1 1 
+Output: 0.906539 
+Target: 1 
+
+Sample 717
+Input: 0 1 
+Output: 0.0582448 
+Target: 0 
+
+Sample 718
+Input: 1 0 
+Output: 0.0376131 
+Target: 0 
+
+Sample 719
+Input: 0 1 
+Output: -0.0204498 
+Target: 0 
+
+Sample 720
+Input: 0 0 
+Output: -0.0350255 
+Target: 0 
+
+Sample 721
+Input: 1 1 
+Output: 0.898864 
+Target: 1 
+
+Sample 722
+Input: 1 0 
+Output: 0.00785218 
+Target: 0 
+
+Sample 723
+Input: 1 1 
+Output: 0.903849 
+Target: 1 
+
+Sample 724
+Input: 1 1 
+Output: 0.907594 
+Target: 1 
+
+Sample 725
+Input: 0 0 
+Output: 0.00339081 
+Target: 0 
+
+Sample 726
+Input: 0 0 
+Output: 0.00391978 
+Target: 0 
+
+Sample 727
+Input: 1 1 
+Output: 0.915428 
+Target: 1 
+
+Sample 728
+Input: 1 1 
+Output: 0.918144 
+Target: 1 
+
+Sample 729
+Input: 1 0 
+Output: 0.0824681 
+Target: 0 
+
+Sample 730
+Input: 1 1 
+Output: 0.913341 
+Target: 1 
+
+Sample 731
+Input: 0 0 
+Output: -0.0360642 
+Target: 0 
+
+Sample 732
+Input: 0 0 
+Output: -0.0234948 
+Target: 0 
+
+Sample 733
+Input: 0 0 
+Output: -0.00490561 
+Target: 0 
+
+Sample 734
+Input: 0 0 
+Output: 0.00696499 
+Target: 0 
+
+Sample 735
+Input: 1 1 
+Output: 0.912627 
+Target: 1 
+
+Sample 736
+Input: 1 0 
+Output: 0.0219418 
+Target: 0 
+
+Sample 737
+Input: 0 0 
+Output: 0.0060622 
+Target: 0 
+
+Sample 738
+Input: 1 0 
+Output: -0.00193593 
+Target: 0 
+
+Sample 739
+Input: 1 0 
+Output: -0.00491378 
+Target: 0 
+
+Sample 740
+Input: 0 1 
+Output: 0.0679705 
+Target: 0 
+
+Sample 741
+Input: 0 0 
+Output: -0.0259763 
+Target: 0 
+
+Sample 742
+Input: 0 0 
+Output: -0.0241443 
+Target: 0 
+
+Sample 743
+Input: 1 1 
+Output: 0.899383 
+Target: 1 
+
+Sample 744
+Input: 0 1 
+Output: 0.00351206 
+Target: 0 
+
+Sample 745
+Input: 0 1 
+Output: 0.00744164 
+Target: 0 
+
+Sample 746
+Input: 0 0 
+Output: 0.00221104 
+Target: 0 
+
+Sample 747
+Input: 1 1 
+Output: 0.902982 
+Target: 1 
+
+Sample 748
+Input: 1 1 
+Output: 0.906304 
+Target: 1 
+
+Sample 749
+Input: 1 0 
+Output: 0.0100595 
+Target: 0 
+
+Sample 750
+Input: 0 0 
+Output: 0.00435126 
+Target: 0 
+
+Sample 751
+Input: 1 1 
+Output: 0.91233 
+Target: 1 
+
+Sample 752
+Input: 0 0 
+Output: 0.00172089 
+Target: 0 
+
+Sample 753
+Input: 1 0 
+Output: 0.0241248 
+Target: 0 
+
+Sample 754
+Input: 0 1 
+Output: 0.0387416 
+Target: 0 
+
+Sample 755
+Input: 1 0 
+Output: -0.0282967 
+Target: 0 
+
+Sample 756
+Input: 1 1 
+Output: 0.908411 
+Target: 1 
+
+Sample 757
+Input: 1 1 
+Output: 0.911632 
+Target: 1 
+
+Sample 758
+Input: 0 1 
+Output: 0.0227555 
+Target: 0 
+
+Sample 759
+Input: 0 0 
+Output: -0.0241605 
+Target: 0 
+
+Sample 760
+Input: 1 1 
+Output: 0.915299 
+Target: 1 
+
+Sample 761
+Input: 1 0 
+Output: 0.0378255 
+Target: 0 
+
+Sample 762
+Input: 0 1 
+Output: 0.00956305 
+Target: 0 
+
+Sample 763
+Input: 1 1 
+Output: 0.911273 
+Target: 1 
+
+Sample 764
+Input: 0 0 
+Output: -0.0292403 
+Target: 0 
+
+Sample 765
+Input: 1 1 
+Output: 0.913807 
+Target: 1 
+
+Sample 766
+Input: 1 0 
+Output: 0.0207659 
+Target: 0 
+
+Sample 767
+Input: 0 1 
+Output: 0.0214102 
+Target: 0 
+
+Sample 768
+Input: 1 0 
+Output: -0.00806634 
+Target: 0 
+
+Sample 769
+Input: 0 1 
+Output: -0.00472008 
+Target: 0 
+
+Sample 770
+Input: 1 1 
+Output: 0.912418 
+Target: 1 
+
+Sample 771
+Input: 0 0 
+Output: -0.015672 
+Target: 0 
+
+Sample 772
+Input: 1 0 
+Output: 0.0170358 
+Target: 0 
+
+Sample 773
+Input: 0 0 
+Output: -0.00762417 
+Target: 0 
+
+Sample 774
+Input: 1 1 
+Output: 0.915192 
+Target: 1 
+
+Sample 775
+Input: 0 1 
+Output: 0.0270259 
+Target: 0 
+
+Sample 776
+Input: 0 0 
+Output: -0.0084342 
+Target: 0 
+
+Sample 777
+Input: 1 0 
+Output: 0.00156071 
+Target: 0 
+
+Sample 778
+Input: 1 1 
+Output: 0.913551 
+Target: 1 
+
+Sample 779
+Input: 1 0 
+Output: 0.00875205 
+Target: 0 
+
+Sample 780
+Input: 0 1 
+Output: 0.00680143 
+Target: 0 
+
+Sample 781
+Input: 1 1 
+Output: 0.914865 
+Target: 1 
+
+Sample 782
+Input: 0 0 
+Output: -0.0115797 
+Target: 0 
+
+Sample 783
+Input: 1 1 
+Output: 0.918094 
+Target: 1 
+
+Sample 784
+Input: 0 1 
+Output: 0.0293598 
+Target: 0 
+
+Sample 785
+Input: 1 0 
+Output: 0.0202363 
+Target: 0 
+
+Sample 786
+Input: 1 0 
+Output: -0.0039148 
+Target: 0 
+
+Sample 787
+Input: 1 0 
+Output: -0.0122933 
+Target: 0 
+
+Sample 788
+Input: 0 1 
+Output: -0.0163704 
+Target: 0 
+
+Sample 789
+Input: 0 1 
+Output: -0.000549738 
+Target: 0 
+
+Sample 790
+Input: 0 1 
+Output: 0.0078536 
+Target: 0 
+
+Sample 791
+Input: 1 1 
+Output: 0.918103 
+Target: 1 
+
+Sample 792
+Input: 0 0 
+Output: -0.00999112 
+Target: 0 
+
+Sample 793
+Input: 0 0 
+Output: -0.00390221 
+Target: 0 
+
+Sample 794
+Input: 0 0 
+Output: 0.00122067 
+Target: 0 
+
+Sample 795
+Input: 0 0 
+Output: 0.0031322 
+Target: 0 
+
+Sample 796
+Input: 1 0 
+Output: 0.0402997 
+Target: 0 
+
+Sample 797
+Input: 1 1 
+Output: 0.9176 
+Target: 1 
+
+Sample 798
+Input: 0 1 
+Output: 0.00325168 
+Target: 0 
+
+Sample 799
+Input: 1 0 
+Output: -0.0131483 
+Target: 0 
+
+Sample 800
+Input: 0 1 
+Output: 0.00519988 
+Target: 0 
+
+Sample 801
+Input: 0 1 
+Output: 0.00350087 
+Target: 0 
+
+Sample 802
+Input: 1 0 
+Output: -0.00365414 
+Target: 0 
+
+Sample 803
+Input: 0 1 
+Output: -0.000265427 
+Target: 0 
+
+Sample 804
+Input: 1 1 
+Output: 0.918239 
+Target: 1 
+
+Sample 805
+Input: 1 0 
+Output: 0.0115138 
+Target: 0 
+
+Sample 806
+Input: 1 0 
+Output: 0.00597418 
+Target: 0 
+
+Sample 807
+Input: 0 1 
+Output: 0.00374576 
+Target: 0 
+
+Sample 808
+Input: 1 0 
+Output: -0.0088915 
+Target: 0 
+
+Sample 809
+Input: 1 1 
+Output: 0.919061 
+Target: 1 
+
+Sample 810
+Input: 0 0 
+Output: -0.024651 
+Target: 0 
+
+Sample 811
+Input: 0 0 
+Output: -0.0100804 
+Target: 0 
+
+Sample 812
+Input: 0 0 
+Output: 0.00258882 
+Target: 0 
+
+Sample 813
+Input: 1 0 
+Output: 0.040958 
+Target: 0 
+
+Sample 814
+Input: 1 1 
+Output: 0.920218 
+Target: 1 
+
+Sample 815
+Input: 0 1 
+Output: 0.0175385 
+Target: 0 
+
+Sample 816
+Input: 0 1 
+Output: 0.00117361 
+Target: 0 
+
+Sample 817
+Input: 1 1 
+Output: 0.916351 
+Target: 1 
+
+Sample 818
+Input: 1 0 
+Output: -0.020419 
+Target: 0 
+
+Sample 819
+Input: 0 1 
+Output: 0.0124627 
+Target: 0 
+
+Sample 820
+Input: 0 0 
+Output: -0.0169178 
+Target: 0 
+
+Sample 821
+Input: 0 1 
+Output: 0.0130878 
+Target: 0 
+
+Sample 822
+Input: 0 0 
+Output: -0.00854061 
+Target: 0 
+
+Sample 823
+Input: 1 1 
+Output: 0.920186 
+Target: 1 
+
+Sample 824
+Input: 1 0 
+Output: 0.0229762 
+Target: 0 
+
+Sample 825
+Input: 1 1 
+Output: 0.920124 
+Target: 1 
+
+Sample 826
+Input: 1 0 
+Output: 0.00748818 
+Target: 0 
+
+Sample 827
+Input: 1 1 
+Output: 0.920865 
+Target: 1 
+
+Sample 828
+Input: 0 1 
+Output: 0.0119793 
+Target: 0 
+
+Sample 829
+Input: 1 1 
+Output: 0.922157 
+Target: 1 
+
+Sample 830
+Input: 0 0 
+Output: -0.016419 
+Target: 0 
+
+Sample 831
+Input: 1 1 
+Output: 0.92494 
+Target: 1 
+
+Sample 832
+Input: 0 1 
+Output: 0.0324392 
+Target: 0 
+
+Sample 833
+Input: 0 0 
+Output: -0.0104856 
+Target: 0 
+
+Sample 834
+Input: 0 1 
+Output: 0.00216724 
+Target: 0 
+
+Sample 835
+Input: 1 0 
+Output: 0.0163996 
+Target: 0 
+
+Sample 836
+Input: 1 0 
+Output: -0.000528307 
+Target: 0 
+
+Sample 837
+Input: 0 0 
+Output: -0.0187059 
+Target: 0 
+
+Sample 838
+Input: 1 1 
+Output: 0.919405 
+Target: 1 
+
+Sample 839
+Input: 0 0 
+Output: -0.00388862 
+Target: 0 
+
+Sample 840
+Input: 0 1 
+Output: 0.000364193 
+Target: 0 
+
+Sample 841
+Input: 0 1 
+Output: 0.00361237 
+Target: 0 
+
+Sample 842
+Input: 1 0 
+Output: 0.0163487 
+Target: 0 
+
+Sample 843
+Input: 1 0 
+Output: 0.000495343 
+Target: 0 
+
+Sample 844
+Input: 1 0 
+Output: -0.00789439 
+Target: 0 
+
+Sample 845
+Input: 0 0 
+Output: -0.0045766 
+Target: 0 
+
+Sample 846
+Input: 1 1 
+Output: 0.920439 
+Target: 1 
+
+Sample 847
+Input: 0 1 
+Output: 0.00117314 
+Target: 0 
+
+Sample 848
+Input: 1 1 
+Output: 0.923501 
+Target: 1 
+
+Sample 849
+Input: 1 1 
+Output: 0.925712 
+Target: 1 
+
+Sample 850
+Input: 0 1 
+Output: 0.0297335 
+Target: 0 
+
+Sample 851
+Input: 0 0 
+Output: -0.000728577 
+Target: 0 
+
+Sample 852
+Input: 0 0 
+Output: -0.00501203 
+Target: 0 
+
+Sample 853
+Input: 0 1 
+Output: -0.00289341 
+Target: 0 
+
+Sample 854
+Input: 0 1 
+Output: -0.00181635 
+Target: 0 
+
+Sample 855
+Input: 0 0 
+Output: -0.00179009 
+Target: 0 
+
+Sample 856
+Input: 0 0 
+Output: -0.000160845 
+Target: 0 
+
+Sample 857
+Input: 0 0 
+Output: 0.000740563 
+Target: 0 
+
+Sample 858
+Input: 1 1 
+Output: 0.925942 
+Target: 1 
+
+Sample 859
+Input: 1 1 
+Output: 0.927561 
+Target: 1 
+
+Sample 860
+Input: 0 1 
+Output: 0.0232201 
+Target: 0 
+
+Sample 861
+Input: 0 0 
+Output: -0.00238438 
+Target: 0 
+
+Sample 862
+Input: 0 0 
+Output: -0.00471651 
+Target: 0 
+
+Sample 863
+Input: 1 0 
+Output: 0.0400915 
+Target: 0 
+
+Sample 864
+Input: 1 1 
+Output: 0.923059 
+Target: 1 
+
+Sample 865
+Input: 1 1 
+Output: 0.922475 
+Target: 1 
+
+Sample 866
+Input: 1 1 
+Output: 0.924052 
+Target: 1 
+
+Sample 867
+Input: 0 0 
+Output: -0.0233506 
+Target: 0 
+
+Sample 868
+Input: 0 1 
+Output: 0.00567984 
+Target: 0 
+
+Sample 869
+Input: 0 0 
+Output: -0.00553492 
+Target: 0 
+
+Sample 870
+Input: 0 0 
+Output: -0.000257085 
+Target: 0 
+
+Sample 871
+Input: 0 1 
+Output: 0.0125983 
+Target: 0 
+
+Sample 872
+Input: 1 1 
+Output: 0.927619 
+Target: 1 
+
+Sample 873
+Input: 0 0 
+Output: -0.000712454 
+Target: 0 
+
+Sample 874
+Input: 1 1 
+Output: 0.928944 
+Target: 1 
+
+Sample 875
+Input: 1 1 
+Output: 0.93059 
+Target: 1 
+
+Sample 876
+Input: 0 1 
+Output: 0.0256175 
+Target: 0 
+
+Sample 877
+Input: 1 1 
+Output: 0.931174 
+Target: 1 
+
+Sample 878
+Input: 0 1 
+Output: 0.00624473 
+Target: 0 
+
+Sample 879
+Input: 1 1 
+Output: 0.931334 
+Target: 1 
+
+Sample 880
+Input: 1 1 
+Output: 0.932442 
+Target: 1 
+
+Sample 881
+Input: 1 1 
+Output: 0.934208 
+Target: 1 
+
+Sample 882
+Input: 1 1 
+Output: 0.93619 
+Target: 1 
+
+Sample 883
+Input: 1 1 
+Output: 0.938172 
+Target: 1 
+
+Sample 884
+Input: 1 1 
+Output: 0.940059 
+Target: 1 
+
+Sample 885
+Input: 1 1 
+Output: 0.941816 
+Target: 1 
+
+Sample 886
+Input: 0 0 
+Output: 0.000382894 
+Target: 0 
+
+Sample 887
+Input: 1 1 
+Output: 0.944225 
+Target: 1 
+
+Sample 888
+Input: 0 1 
+Output: 0.0799451 
+Target: 0 
+
+Sample 889
+Input: 0 1 
+Output: 0.0095676 
+Target: 0 
+
+Sample 890
+Input: 0 0 
+Output: -0.0434985 
+Target: 0 
+
+Sample 891
+Input: 0 1 
+Output: -0.0401273 
+Target: 0 
+
+Sample 892
+Input: 0 0 
+Output: -0.00662087 
+Target: 0 
+
+Sample 893
+Input: 1 0 
+Output: 0.100034 
+Target: 0 
+
+Sample 894
+Input: 0 0 
+Output: -0.022795 
+Target: 0 
+
+Sample 895
+Input: 1 1 
+Output: 0.923546 
+Target: 1 
+
+Sample 896
+Input: 0 1 
+Output: -0.0544545 
+Target: 0 
+
+Sample 897
+Input: 0 1 
+Output: -0.00543563 
+Target: 0 
+
+Sample 898
+Input: 1 0 
+Output: 0.00862734 
+Target: 0 
+
+Sample 899
+Input: 0 0 
+Output: 0.00933591 
+Target: 0 
+
+Sample 900
+Input: 0 0 
+Output: 0.00557022 
+Target: 0 
+
+Sample 901
+Input: 0 0 
+Output: 0.000646527 
+Target: 0 
+
+Sample 902
+Input: 1 1 
+Output: 0.932591 
+Target: 1 
+
+Sample 903
+Input: 0 1 
+Output: 0.0393411 
+Target: 0 
+
+Sample 904
+Input: 0 0 
+Output: -0.016592 
+Target: 0 
+
+Sample 905
+Input: 0 1 
+Output: -0.00392696 
+Target: 0 
+
+Sample 906
+Input: 0 1 
+Output: -0.00551038 
+Target: 0 
+
+Sample 907
+Input: 1 0 
+Output: -0.015866 
+Target: 0 
+
+Sample 908
+Input: 1 0 
+Output: 0.00134222 
+Target: 0 
+
+Sample 909
+Input: 1 1 
+Output: 0.931824 
+Target: 1 
+
+Sample 910
+Input: 1 1 
+Output: 0.933493 
+Target: 1 
+
+Sample 911
+Input: 1 1 
+Output: 0.935484 
+Target: 1 
+
+Sample 912
+Input: 0 0 
+Output: 0.0106717 
+Target: 0 
+
+Sample 913
+Input: 0 1 
+Output: 0.0504429 
+Target: 0 
+
+Sample 914
+Input: 1 1 
+Output: 0.933857 
+Target: 1 
+
+Sample 915
+Input: 0 1 
+Output: -0.011067 
+Target: 0 
+
+Sample 916
+Input: 0 0 
+Output: -0.0239446 
+Target: 0 
+
+Sample 917
+Input: 1 1 
+Output: 0.934 
+Target: 1 
+
+Sample 918
+Input: 0 0 
+Output: -0.00334779 
+Target: 0 
+
+Sample 919
+Input: 0 1 
+Output: 0.019353 
+Target: 0 
+
+Sample 920
+Input: 0 0 
+Output: -0.00190136 
+Target: 0 
+
+Sample 921
+Input: 0 1 
+Output: -0.00137167 
+Target: 0 
+
+Sample 922
+Input: 0 0 
+Output: -0.00302537 
+Target: 0 
+
+Sample 923
+Input: 0 1 
+Output: -0.00319963 
+Target: 0 
+
+Sample 924
+Input: 0 1 
+Output: -0.00020864 
+Target: 0 
+
+Sample 925
+Input: 1 1 
+Output: 0.934345 
+Target: 1 
+
+Sample 926
+Input: 0 1 
+Output: 0.00881181 
+Target: 0 
+
+Sample 927
+Input: 0 1 
+Output: 0.0044024 
+Target: 0 
+
+Sample 928
+Input: 1 1 
+Output: 0.934774 
+Target: 1 
+
+Sample 929
+Input: 0 0 
+Output: -0.00171434 
+Target: 0 
+
+Sample 930
+Input: 1 1 
+Output: 0.936082 
+Target: 1 
+
+Sample 931
+Input: 0 1 
+Output: 0.0110271 
+Target: 0 
+
+Sample 932
+Input: 1 1 
+Output: 0.936955 
+Target: 1 
+
+Sample 933
+Input: 1 1 
+Output: 0.937769 
+Target: 1 
+
+Sample 934
+Input: 0 0 
+Output: -0.00187682 
+Target: 0 
+
+Sample 935
+Input: 0 0 
+Output: -0.0003749 
+Target: 0 
+
+Sample 936
+Input: 1 1 
+Output: 0.940208 
+Target: 1 
+
+Sample 937
+Input: 0 1 
+Output: 0.027638 
+Target: 0 
+
+Sample 938
+Input: 1 0 
+Output: 0.063477 
+Target: 0 
+
+Sample 939
+Input: 0 0 
+Output: -0.0365352 
+Target: 0 
+
+Sample 940
+Input: 0 0 
+Output: -0.0310996 
+Target: 0 
+
+Sample 941
+Input: 1 1 
+Output: 0.927383 
+Target: 1 
+
+Sample 942
+Input: 1 0 
+Output: -0.0164421 
+Target: 0 
+
+Sample 943
+Input: 0 0 
+Output: 0.0124427 
+Target: 0 
+
+Sample 944
+Input: 1 1 
+Output: 0.93165 
+Target: 1 
+
+Sample 945
+Input: 1 1 
+Output: 0.933388 
+Target: 1 
+
+Sample 946
+Input: 0 1 
+Output: -0.00106279 
+Target: 0 
+
+Sample 947
+Input: 1 1 
+Output: 0.936536 
+Target: 1 
+
+Sample 948
+Input: 1 0 
+Output: 0.0480748 
+Target: 0 
+
+Sample 949
+Input: 1 1 
+Output: 0.934114 
+Target: 1 
+
+Sample 950
+Input: 0 0 
+Output: -0.00762205 
+Target: 0 
+
+Sample 951
+Input: 0 1 
+Output: -0.0155141 
+Target: 0 
+
+Sample 952
+Input: 0 0 
+Output: -0.00128471 
+Target: 0 
+
+Sample 953
+Input: 1 0 
+Output: -0.002587 
+Target: 0 
+
+Sample 954
+Input: 0 1 
+Output: 0.0117389 
+Target: 0 
+
+Sample 955
+Input: 0 1 
+Output: 0.00357707 
+Target: 0 
+
+Sample 956
+Input: 0 0 
+Output: -0.000431838 
+Target: 0 
+
+Sample 957
+Input: 0 1 
+Output: -0.00732895 
+Target: 0 
+
+Sample 958
+Input: 0 0 
+Output: 0.000552942 
+Target: 0 
+
+Sample 959
+Input: 0 0 
+Output: 0.00131377 
+Target: 0 
+
+Sample 960
+Input: 1 0 
+Output: -0.00443306 
+Target: 0 
+
+Sample 961
+Input: 1 1 
+Output: 0.935067 
+Target: 1 
+
+Sample 962
+Input: 1 1 
+Output: 0.93644 
+Target: 1 
+
+Sample 963
+Input: 1 1 
+Output: 0.938159 
+Target: 1 
+
+Sample 964
+Input: 1 0 
+Output: 0.031018 
+Target: 0 
+
+Sample 965
+Input: 0 0 
+Output: -0.00190299 
+Target: 0 
+
+Sample 966
+Input: 1 0 
+Output: -0.00614388 
+Target: 0 
+
+Sample 967
+Input: 0 0 
+Output: -0.0061742 
+Target: 0 
+
+Sample 968
+Input: 1 1 
+Output: 0.937116 
+Target: 1 
+
+Sample 969
+Input: 0 0 
+Output: 0.00027278 
+Target: 0 
+
+Sample 970
+Input: 1 0 
+Output: 0.00759789 
+Target: 0 
+
+Sample 971
+Input: 1 0 
+Output: 0.00183633 
+Target: 0 
+
+Sample 972
+Input: 0 1 
+Output: 0.0219961 
+Target: 0 
+
+Sample 973
+Input: 1 1 
+Output: 0.935538 
+Target: 1 
+
+Sample 974
+Input: 1 0 
+Output: -0.0200783 
+Target: 0 
+
+Sample 975
+Input: 1 1 
+Output: 0.937419 
+Target: 1 
+
+Sample 976
+Input: 0 1 
+Output: 0.0167613 
+Target: 0 
+
+Sample 977
+Input: 0 0 
+Output: -0.00840465 
+Target: 0 
+
+Sample 978
+Input: 0 1 
+Output: 0.00466524 
+Target: 0 
+
+Sample 979
+Input: 1 0 
+Output: 0.0129214 
+Target: 0 
+
+Sample 980
+Input: 0 0 
+Output: -0.0114676 
+Target: 0 
+
+Sample 981
+Input: 1 0 
+Output: -0.00333589 
+Target: 0 
+
+Sample 982
+Input: 0 1 
+Output: -0.0107543 
+Target: 0 
+
+Sample 983
+Input: 0 0 
+Output: 0.00096488 
+Target: 0 
+
+Sample 984
+Input: 1 0 
+Output: 0.00986515 
+Target: 0 
+
+Sample 985
+Input: 0 1 
+Output: 0.00144413 
+Target: 0 
+
+Sample 986
+Input: 1 1 
+Output: 0.936414 
+Target: 1 
+
+Sample 987
+Input: 1 0 
+Output: 0.000677744 
+Target: 0 
+
+Sample 988
+Input: 0 1 
+Output: 0.00489179 
+Target: 0 
+
+Sample 989
+Input: 1 0 
+Output: -0.000419755 
+Target: 0 
+
+Sample 990
+Input: 1 1 
+Output: 0.93716 
+Target: 1 
+
+Sample 991
+Input: 1 0 
+Output: 0.00464946 
+Target: 0 
+
+Sample 992
+Input: 0 1 
+Output: 0.00483976 
+Target: 0 
+
+Sample 993
+Input: 0 0 
+Output: -0.00709147 
+Target: 0 
+
+Sample 994
+Input: 1 1 
+Output: 0.93763 
+Target: 1 
+
+Sample 995
+Input: 1 0 
+Output: 0.00651365 
+Target: 0 
+
+Sample 996
+Input: 1 0 
+Output: 0.00327291 
+Target: 0 
+
+Sample 997
+Input: 0 0 
+Output: -0.00515396 
+Target: 0 
+
+Sample 998
+Input: 0 0 
+Output: -0.00326884 
+Target: 0 
+
+Sample 999
+Input: 1 0 
+Output: -0.000962514 
+Target: 0 
+
+Sample 1000
+Input: 1 1 
+Output: 0.938051 
+Target: 1 
+
+Sample 1001
+Input: 0 0 
+Output: 0.00327717 
+Target: 0 
+
+Sample 1002
+Input: 0 0 
+Output: 0.00247949 
+Target: 0 
+
+Sample 1003
+Input: 0 1 
+Output: 0.015641 
+Target: 0 
+
+Sample 1004
+Input: 1 0 
+Output: -6.48964e-05 
+Target: 0 
+
+Sample 1005
+Input: 0 1 
+Output: -0.00617127 
+Target: 0 
+
+Sample 1006
+Input: 1 1 
+Output: 0.937885 
+Target: 1 
+
+Sample 1007
+Input: 0 1 
+Output: 0.00297349 
+Target: 0 
+
+Sample 1008
+Input: 1 0 
+Output: 0.00501923 
+Target: 0 
+
+Sample 1009
+Input: 0 1 
+Output: 0.000974407 
+Target: 0 
+
+Sample 1010
+Input: 0 1 
+Output: -0.00130038 
+Target: 0 
+
+Sample 1011
+Input: 1 0 
+Output: -0.00252675 
+Target: 0 
+
+Sample 1012
+Input: 0 1 
+Output: 0.000372949 
+Target: 0 
+
+Sample 1013
+Input: 1 0 
+Output: 0.000627044 
+Target: 0 
+
+Sample 1014
+Input: 0 0 
+Output: -0.0102862 
+Target: 0 
+
+Sample 1015
+Input: 1 1 
+Output: 0.939134 
+Target: 1 
+
+Sample 1016
+Input: 1 1 
+Output: 0.940159 
+Target: 1 
+
+Sample 1017
+Input: 1 0 
+Output: 0.0218072 
+Target: 0 
+
+Sample 1018
+Input: 1 0 
+Output: 0.00461738 
+Target: 0 
+
+Sample 1019
+Input: 1 1 
+Output: 0.939073 
+Target: 1 
+
+Sample 1020
+Input: 0 0 
+Output: -0.0115962 
+Target: 0 
+
+Sample 1021
+Input: 0 1 
+Output: 0.0126883 
+Target: 0 
+
+Sample 1022
+Input: 1 1 
+Output: 0.938861 
+Target: 1 
+
+Sample 1023
+Input: 1 1 
+Output: 0.939322 
+Target: 1 
+
+Sample 1024
+Input: 1 1 
+Output: 0.94048 
+Target: 1 
+
+Sample 1025
+Input: 0 0 
+Output: -0.00472518 
+Target: 0 
+
+Sample 1026
+Input: 1 1 
+Output: 0.942707 
+Target: 1 
+
+Sample 1027
+Input: 0 1 
+Output: 0.0337098 
+Target: 0 
+
+Sample 1028
+Input: 1 1 
+Output: 0.941466 
+Target: 1 
+
+Sample 1029
+Input: 0 1 
+Output: -0.00271067 
+Target: 0 
+
+Sample 1030
+Input: 1 1 
+Output: 0.941127 
+Target: 1 
+
+Sample 1031
+Input: 0 0 
+Output: -0.0150535 
+Target: 0 
+
+Sample 1032
+Input: 0 0 
+Output: -0.00647117 
+Target: 0 
+
+Sample 1033
+Input: 1 1 
+Output: 0.943153 
+Target: 1 
+
+Sample 1034
+Input: 0 1 
+Output: 0.0223837 
+Target: 0 
+
+Sample 1035
+Input: 1 0 
+Output: 0.0247735 
+Target: 0 
+
+Sample 1036
+Input: 1 0 
+Output: -0.00517291 
+Target: 0 
+
+Sample 1037
+Input: 0 0 
+Output: -0.0165134 
+Target: 0 
+
+Sample 1038
+Input: 1 1 
+Output: 0.938229 
+Target: 1 
+
+Sample 1039
+Input: 1 0 
+Output: -0.0063056 
+Target: 0 
+
+Sample 1040
+Input: 0 0 
+Output: 6.51728e-05 
+Target: 0 
+
+Sample 1041
+Input: 0 1 
+Output: -0.00773512 
+Target: 0 
+
+Sample 1042
+Input: 1 0 
+Output: 0.0156336 
+Target: 0 
+
+Sample 1043
+Input: 1 1 
+Output: 0.940605 
+Target: 1 
+
+Sample 1044
+Input: 0 1 
+Output: -0.000899478 
+Target: 0 
+
+Sample 1045
+Input: 0 1 
+Output: 0.00139691 
+Target: 0 
+
+Sample 1046
+Input: 0 1 
+Output: 0.00123015 
+Target: 0 
+
+Sample 1047
+Input: 0 1 
+Output: -1.19284e-05 
+Target: 0 
+
+Sample 1048
+Input: 1 1 
+Output: 0.941114 
+Target: 1 
+
+Sample 1049
+Input: 1 1 
+Output: 0.941945 
+Target: 1 
+
+Sample 1050
+Input: 0 0 
+Output: 0.00177864 
+Target: 0 
+
+Sample 1051
+Input: 0 0 
+Output: 0.00151115 
+Target: 0 
+
+Sample 1052
+Input: 0 0 
+Output: 0.000534471 
+Target: 0 
+
+Sample 1053
+Input: 1 1 
+Output: 0.94412 
+Target: 1 
+
+Sample 1054
+Input: 1 1 
+Output: 0.944908 
+Target: 1 
+
+Sample 1055
+Input: 0 0 
+Output: 0.00148167 
+Target: 0 
+
+Sample 1056
+Input: 1 1 
+Output: 0.946499 
+Target: 1 
+
+Sample 1057
+Input: 0 1 
+Output: 0.0381427 
+Target: 0 
+
+Sample 1058
+Input: 0 1 
+Output: 0.004731 
+Target: 0 
+
+Sample 1059
+Input: 0 0 
+Output: -0.0204919 
+Target: 0 
+
+Sample 1060
+Input: 1 0 
+Output: 0.00785511 
+Target: 0 
+
+Sample 1061
+Input: 0 0 
+Output: -0.0129277 
+Target: 0 
+
+Sample 1062
+Input: 0 0 
+Output: -0.00547113 
+Target: 0 
+
+Sample 1063
+Input: 1 1 
+Output: 0.940789 
+Target: 1 
+
+Sample 1064
+Input: 0 0 
+Output: 0.00577364 
+Target: 0 
+
+Sample 1065
+Input: 1 1 
+Output: 0.941961 
+Target: 1 
+
+Sample 1066
+Input: 1 0 
+Output: 0.0192663 
+Target: 0 
+
+Sample 1067
+Input: 1 0 
+Output: 0.00263483 
+Target: 0 
+
+Sample 1068
+Input: 0 0 
+Output: -0.00679923 
+Target: 0 
+
+Sample 1069
+Input: 1 0 
+Output: -0.0111462 
+Target: 0 
+
+Sample 1070
+Input: 1 0 
+Output: -0.00124078 
+Target: 0 
+
+Sample 1071
+Input: 1 1 
+Output: 0.941848 
+Target: 1 
+
+Sample 1072
+Input: 1 1 
+Output: 0.942949 
+Target: 1 
+
+Sample 1073
+Input: 0 1 
+Output: 0.00395582 
+Target: 0 
+
+Sample 1074
+Input: 1 0 
+Output: 0.0252642 
+Target: 0 
+
+Sample 1075
+Input: 1 0 
+Output: 0.00058525 
+Target: 0 
+
+Sample 1076
+Input: 1 1 
+Output: 0.941282 
+Target: 1 
+
+Sample 1077
+Input: 0 1 
+Output: -0.0175746 
+Target: 0 
+
+Sample 1078
+Input: 0 1 
+Output: -0.000272698 
+Target: 0 
+
+Sample 1079
+Input: 1 0 
+Output: 0.00259534 
+Target: 0 
+
+Sample 1080
+Input: 0 1 
+Output: 0.0115039 
+Target: 0 
+
+Sample 1081
+Input: 0 0 
+Output: -0.00464299 
+Target: 0 
+
+Sample 1082
+Input: 1 0 
+Output: -0.00622711 
+Target: 0 
+
+Sample 1083
+Input: 0 0 
+Output: -0.00131314 
+Target: 0 
+
+Sample 1084
+Input: 1 0 
+Output: 0.00250876 
+Target: 0 
+
+Sample 1085
+Input: 1 1 
+Output: 0.943496 
+Target: 1 
+
+Sample 1086
+Input: 0 0 
+Output: 0.00185946 
+Target: 0 
+
+Sample 1087
+Input: 0 1 
+Output: 0.00850077 
+Target: 0 
+
+Sample 1088
+Input: 1 0 
+Output: 0.0033071 
+Target: 0 
+
+Sample 1089
+Input: 0 0 
+Output: -0.0051701 
+Target: 0 
+
+Sample 1090
+Input: 1 0 
+Output: -0.00308625 
+Target: 0 
+
+Sample 1091
+Input: 1 0 
+Output: -0.000319985 
+Target: 0 
+
+Sample 1092
+Input: 1 1 
+Output: 0.94342 
+Target: 1 
+
+Sample 1093
+Input: 0 0 
+Output: 0.000722429 
+Target: 0 
+
+Sample 1094
+Input: 1 1 
+Output: 0.944638 
+Target: 1 
+
+Sample 1095
+Input: 0 1 
+Output: 0.010956 
+Target: 0 
+
+Sample 1096
+Input: 0 1 
+Output: 0.00352213 
+Target: 0 
+
+Sample 1097
+Input: 0 1 
+Output: -0.00354772 
+Target: 0 
+
+Sample 1098
+Input: 1 0 
+Output: 0.00878018 
+Target: 0 
+
+Sample 1099
+Input: 0 1 
+Output: -0.00926913 
+Target: 0 
+
+Sample 1100
+Input: 1 1 
+Output: 0.944199 
+Target: 1 
+
+Sample 1101
+Input: 0 1 
+Output: 0.00465554 
+Target: 0 
+
+Sample 1102
+Input: 1 0 
+Output: 0.00679777 
+Target: 0 
+
+Sample 1103
+Input: 0 1 
+Output: -0.00033693 
+Target: 0 
+
+Sample 1104
+Input: 1 1 
+Output: 0.944385 
+Target: 1 
+
+Sample 1105
+Input: 0 0 
+Output: -0.0100252 
+Target: 0 
+
+Sample 1106
+Input: 1 1 
+Output: 0.945451 
+Target: 1 
+
+Sample 1107
+Input: 1 1 
+Output: 0.946364 
+Target: 1 
+
+Sample 1108
+Input: 0 1 
+Output: 0.023101 
+Target: 0 
+
+Sample 1109
+Input: 1 1 
+Output: 0.94608 
+Target: 1 
+
+Sample 1110
+Input: 0 0 
+Output: -0.00778693 
+Target: 0 
+
+Sample 1111
+Input: 1 1 
+Output: 0.946158 
+Target: 1 
+
+Sample 1112
+Input: 1 0 
+Output: 0.0197225 
+Target: 0 
+
+Sample 1113
+Input: 1 1 
+Output: 0.94552 
+Target: 1 
+
+Sample 1114
+Input: 0 1 
+Output: -0.00402797 
+Target: 0 
+
+Sample 1115
+Input: 0 0 
+Output: -0.0111962 
+Target: 0 
+
+Sample 1116
+Input: 1 1 
+Output: 0.946226 
+Target: 1 
+
+Sample 1117
+Input: 1 0 
+Output: 0.010966 
+Target: 0 
+
+Sample 1118
+Input: 0 0 
+Output: -0.00297064 
+Target: 0 
+
+Sample 1119
+Input: 0 1 
+Output: 0.00975932 
+Target: 0 
+
+Sample 1120
+Input: 1 0 
+Output: -0.00698788 
+Target: 0 
+
+Sample 1121
+Input: 1 1 
+Output: 0.945516 
+Target: 1 
+
+Sample 1122
+Input: 1 0 
+Output: 0.00295628 
+Target: 0 
+
+Sample 1123
+Input: 0 0 
+Output: -0.00378678 
+Target: 0 
+
+Sample 1124
+Input: 0 1 
+Output: 0.0062242 
+Target: 0 
+
+Sample 1125
+Input: 0 1 
+Output: 0.00105876 
+Target: 0 
+
+Sample 1126
+Input: 1 0 
+Output: -0.000529622 
+Target: 0 
+
+Sample 1127
+Input: 0 1 
+Output: -0.00400152 
+Target: 0 
+
+Sample 1128
+Input: 0 1 
+Output: -0.000904106 
+Target: 0 
+
+Sample 1129
+Input: 1 1 
+Output: 0.946107 
+Target: 1 
+
+Sample 1130
+Input: 1 0 
+Output: 0.0083455 
+Target: 0 
+
+Sample 1131
+Input: 1 0 
+Output: 0.00250564 
+Target: 0 
+
+Sample 1132
+Input: 1 0 
+Output: -0.00299428 
+Target: 0 
+
+Sample 1133
+Input: 1 1 
+Output: 0.946229 
+Target: 1 
+
+Sample 1134
+Input: 1 1 
+Output: 0.946924 
+Target: 1 
+
+Sample 1135
+Input: 1 1 
+Output: 0.947899 
+Target: 1 
+
+Sample 1136
+Input: 0 1 
+Output: 0.0220648 
+Target: 0 
+
+Sample 1137
+Input: 0 0 
+Output: -0.00975174 
+Target: 0 
+
+Sample 1138
+Input: 0 0 
+Output: -0.00802319 
+Target: 0 
+
+Sample 1139
+Input: 1 0 
+Output: 0.00857692 
+Target: 0 
+
+Sample 1140
+Input: 0 1 
+Output: -0.00510668 
+Target: 0 
+
+Sample 1141
+Input: 1 0 
+Output: 0.000480602 
+Target: 0 
+
+Sample 1142
+Input: 1 1 
+Output: 0.946311 
+Target: 1 
+
+Sample 1143
+Input: 1 1 
+Output: 0.946958 
+Target: 1 
+
+Sample 1144
+Input: 1 1 
+Output: 0.947911 
+Target: 1 
+
+Sample 1145
+Input: 1 1 
+Output: 0.948975 
+Target: 1 
+
+Sample 1146
+Input: 1 0 
+Output: 0.0264977 
+Target: 0 
+
+Sample 1147
+Input: 1 0 
+Output: 0.00301588 
+Target: 0 
+
+Sample 1148
+Input: 0 1 
+Output: 0.00468744 
+Target: 0 
+
+Sample 1149
+Input: 0 0 
+Output: -0.0162159 
+Target: 0 
+
+Sample 1150
+Input: 1 1 
+Output: 0.94615 
+Target: 1 
+
+Sample 1151
+Input: 1 1 
+Output: 0.946711 
+Target: 1 
+
+Sample 1152
+Input: 0 1 
+Output: 0.0105051 
+Target: 0 
+
+Sample 1153
+Input: 0 0 
+Output: -0.00465303 
+Target: 0 
+
+Sample 1154
+Input: 0 1 
+Output: 0.00246743 
+Target: 0 
+
+Sample 1155
+Input: 1 1 
+Output: 0.946809 
+Target: 1 
+
+Sample 1156
+Input: 0 0 
+Output: -0.00272467 
+Target: 0 
+
+Sample 1157
+Input: 1 0 
+Output: -0.00531011 
+Target: 0 
+
+Sample 1158
+Input: 0 1 
+Output: 0.00932127 
+Target: 0 
+
+Sample 1159
+Input: 0 1 
+Output: 0.00261514 
+Target: 0 
+
+Sample 1160
+Input: 0 1 
+Output: -0.00325655 
+Target: 0 
+
+Sample 1161
+Input: 0 1 
+Output: -0.00305506 
+Target: 0 
+
+Sample 1162
+Input: 1 0 
+Output: -0.000634408 
+Target: 0 
+
+Sample 1163
+Input: 0 0 
+Output: 0.000744012 
+Target: 0 
+
+Sample 1164
+Input: 0 1 
+Output: 0.00259185 
+Target: 0 
+
+Sample 1165
+Input: 1 1 
+Output: 0.947702 
+Target: 1 
+
+Sample 1166
+Input: 1 0 
+Output: 0.00416442 
+Target: 0 
+
+Sample 1167
+Input: 1 1 
+Output: 0.948142 
+Target: 1 
+
+Sample 1168
+Input: 1 1 
+Output: 0.948695 
+Target: 1 
+
+Sample 1169
+Input: 0 0 
+Output: -0.000443488 
+Target: 0 
+
+Sample 1170
+Input: 0 1 
+Output: 0.0156836 
+Target: 0 
+
+Sample 1171
+Input: 1 1 
+Output: 0.948927 
+Target: 1 
+
+Sample 1172
+Input: 0 0 
+Output: -0.00734101 
+Target: 0 
+
+Sample 1173
+Input: 0 0 
+Output: -0.00418232 
+Target: 0 
+
+Sample 1174
+Input: 0 1 
+Output: 0.00311862 
+Target: 0 
+
+Sample 1175
+Input: 0 0 
+Output: 0.000564888 
+Target: 0 
+
+Sample 1176
+Input: 0 0 
+Output: 0.000644595 
+Target: 0 
+
+Sample 1177
+Input: 0 0 
+Output: 0.000319325 
+Target: 0 
+
+Sample 1178
+Input: 1 1 
+Output: 0.948858 
+Target: 1 
+
+Sample 1179
+Input: 1 1 
+Output: 0.949414 
+Target: 1 
+
+Sample 1180
+Input: 0 0 
+Output: 0.00167763 
+Target: 0 
+
+Sample 1181
+Input: 0 1 
+Output: 0.0109933 
+Target: 0 
+
+Sample 1182
+Input: 1 1 
+Output: 0.949949 
+Target: 1 
+
+Sample 1183
+Input: 1 0 
+Output: 0.0181402 
+Target: 0 
+
+Sample 1184
+Input: 1 0 
+Output: -0.00023594 
+Target: 0 
+
+Sample 1185
+Input: 0 0 
+Output: -0.0163393 
+Target: 0 
+
+Sample 1186
+Input: 0 0 
+Output: -0.00901689 
+Target: 0 
+
+Sample 1187
+Input: 1 0 
+Output: -0.00243271 
+Target: 0 
+
+Sample 1188
+Input: 1 0 
+Output: 0.00242212 
+Target: 0 
+
+Sample 1189
+Input: 0 1 
+Output: -0.00410049 
+Target: 0 
+
+Sample 1190
+Input: 1 0 
+Output: 0.00487983 
+Target: 0 
+
+Sample 1191
+Input: 0 0 
+Output: 0.00848651 
+Target: 0 
+
+Sample 1192
+Input: 1 1 
+Output: 0.948003 
+Target: 1 
+
+Sample 1193
+Input: 1 0 
+Output: -0.00245128 
+Target: 0 
+
+Sample 1194
+Input: 0 0 
+Output: 0.00161128 
+Target: 0 
+
+Sample 1195
+Input: 0 1 
+Output: 0.00143836 
+Target: 0 
+
+Sample 1196
+Input: 1 1 
+Output: 0.949091 
+Target: 1 
+
+Sample 1197
+Input: 1 0 
+Output: 0.00570209 
+Target: 0 
+
+Sample 1198
+Input: 1 0 
+Output: 0.00177636 
+Target: 0 
+
+Sample 1199
+Input: 1 0 
+Output: -0.00203717 
+Target: 0 
+
+Sample 1200
+Input: 1 0 
+Output: -0.00182213 
+Target: 0 
+
+Sample 1201
+Input: 0 1 
+Output: 0.00178682 
+Target: 0 
+
+Sample 1202
+Input: 0 0 
+Output: -0.00355804 
+Target: 0 
+
+Sample 1203
+Input: 1 1 
+Output: 0.949404 
+Target: 1 
+
+Sample 1204
+Input: 0 1 
+Output: 0.00596639 
+Target: 0 
+
+Sample 1205
+Input: 1 0 
+Output: 0.00491281 
+Target: 0 
+
+Sample 1206
+Input: 0 1 
+Output: -0.00248985 
+Target: 0 
+
+Sample 1207
+Input: 0 1 
+Output: -0.00252182 
+Target: 0 
+
+Sample 1208
+Input: 0 1 
+Output: -9.08255e-05 
+Target: 0 
+
+Sample 1209
+Input: 0 0 
+Output: -0.00329521 
+Target: 0 
+
+Sample 1210
+Input: 0 1 
+Output: 0.00310865 
+Target: 0 
+
+Sample 1211
+Input: 0 0 
+Output: -0.00135276 
+Target: 0 
+
+Sample 1212
+Input: 0 1 
+Output: 0.000513565 
+Target: 0 
+
+Sample 1213
+Input: 1 1 
+Output: 0.94924 
+Target: 1 
+
+Sample 1214
+Input: 0 0 
+Output: 0.000363897 
+Target: 0 
+
+Sample 1215
+Input: 0 1 
+Output: 0.00519402 
+Target: 0 
+
+Sample 1216
+Input: 1 1 
+Output: 0.949729 
+Target: 1 
+
+Sample 1217
+Input: 0 1 
+Output: 0.00293562 
+Target: 0 
+
+Sample 1218
+Input: 1 1 
+Output: 0.950102 
+Target: 1 
+
+Sample 1219
+Input: 1 0 
+Output: 0.00921976 
+Target: 0 
+
+Sample 1220
+Input: 1 0 
+Output: 0.00150383 
+Target: 0 
+
+Sample 1221
+Input: 1 1 
+Output: 0.949763 
+Target: 1 
+
+Sample 1222
+Input: 0 1 
+Output: -0.000962755 
+Target: 0 
+
+Sample 1223
+Input: 1 0 
+Output: -0.00119495 
+Target: 0 
+
+Sample 1224
+Input: 1 0 
+Output: 0.000715519 
+Target: 0 
+
+Sample 1225
+Input: 1 0 
+Output: 0.000921598 
+Target: 0 
+
+Sample 1226
+Input: 1 1 
+Output: 0.950614 
+Target: 1 
+
+Sample 1227
+Input: 1 0 
+Output: 0.00361708 
+Target: 0 
+
+Sample 1228
+Input: 0 0 
+Output: -0.00923671 
+Target: 0 
+
+Sample 1229
+Input: 0 0 
+Output: -0.0045742 
+Target: 0 
+
+Sample 1230
+Input: 1 0 
+Output: 0.00749372 
+Target: 0 
+
+Sample 1231
+Input: 1 0 
+Output: 0.00124354 
+Target: 0 
+
+Sample 1232
+Input: 0 0 
+Output: -0.000953828 
+Target: 0 
+
+Sample 1233
+Input: 0 1 
+Output: 0.00683388 
+Target: 0 
+
+Sample 1234
+Input: 1 0 
+Output: -0.0102555 
+Target: 0 
+
+Sample 1235
+Input: 0 1 
+Output: 0.0027496 
+Target: 0 
+
+Sample 1236
+Input: 1 1 
+Output: 0.950155 
+Target: 1 
+
+Sample 1237
+Input: 1 1 
+Output: 0.950709 
+Target: 1 
+
+Sample 1238
+Input: 1 0 
+Output: 0.0118821 
+Target: 0 
+
+Sample 1239
+Input: 1 1 
+Output: 0.950941 
+Target: 1 
+
+Sample 1240
+Input: 1 1 
+Output: 0.951173 
+Target: 1 
+
+Sample 1241
+Input: 0 1 
+Output: 0.0116876 
+Target: 0 
+
+Sample 1242
+Input: 0 1 
+Output: 0.00251397 
+Target: 0 
+
+Sample 1243
+Input: 1 1 
+Output: 0.950691 
+Target: 1 
+
+Sample 1244
+Input: 0 0 
+Output: -0.0117225 
+Target: 0 
+
+Sample 1245
+Input: 0 1 
+Output: 0.00045779 
+Target: 0 
+
+Sample 1246
+Input: 0 0 
+Output: -0.00250991 
+Target: 0 
+
+Sample 1247
+Input: 0 1 
+Output: 0.00420095 
+Target: 0 
+
+Sample 1248
+Input: 0 1 
+Output: 0.00103896 
+Target: 0 
+
+Sample 1249
+Input: 0 1 
+Output: -0.00155463 
+Target: 0 
+
+Sample 1250
+Input: 0 1 
+Output: -0.00133525 
+Target: 0 
+
+Sample 1251
+Input: 1 1 
+Output: 0.9511 
+Target: 1 
+
+Sample 1252
+Input: 1 0 
+Output: 0.0103694 
+Target: 0 
+
+Sample 1253
+Input: 0 0 
+Output: -0.00172264 
+Target: 0 
+
+Sample 1254
+Input: 1 0 
+Output: -0.00196653 
+Target: 0 
+
+Sample 1255
+Input: 0 0 
+Output: -0.00218366 
+Target: 0 
+
+Sample 1256
+Input: 1 0 
+Output: -0.000731847 
+Target: 0 
+
+Sample 1257
+Input: 1 0 
+Output: 0.000533797 
+Target: 0 
+
+Sample 1258
+Input: 1 1 
+Output: 0.951025 
+Target: 1 
+
+Sample 1259
+Input: 1 0 
+Output: 0.00457511 
+Target: 0 
+
+Sample 1260
+Input: 1 1 
+Output: 0.951422 
+Target: 1 
+
+Sample 1261
+Input: 1 0 
+Output: 0.00421659 
+Target: 0 
+
+Sample 1262
+Input: 1 0 
+Output: 0.00101632 
+Target: 0 
+
+Sample 1263
+Input: 1 1 
+Output: 0.951611 
+Target: 1 
+
+Sample 1264
+Input: 0 0 
+Output: -0.00283131 
+Target: 0 
+
+Sample 1265
+Input: 1 0 
+Output: 0.00324837 
+Target: 0 
+
+Sample 1266
+Input: 0 0 
+Output: -0.00165423 
+Target: 0 
+
+Sample 1267
+Input: 1 1 
+Output: 0.952114 
+Target: 1 
+
+Sample 1268
+Input: 1 0 
+Output: 0.00412398 
+Target: 0 
+
+Sample 1269
+Input: 0 0 
+Output: -0.00104069 
+Target: 0 
+
+Sample 1270
+Input: 1 1 
+Output: 0.952442 
+Target: 1 
+
+Sample 1271
+Input: 0 1 
+Output: 0.0175636 
+Target: 0 
+
+Sample 1272
+Input: 1 0 
+Output: -0.00563189 
+Target: 0 
+
+Sample 1273
+Input: 1 1 
+Output: 0.951651 
+Target: 1 
+
+Sample 1274
+Input: 0 0 
+Output: -0.00722788 
+Target: 0 
+
+Sample 1275
+Input: 1 0 
+Output: 0.00501431 
+Target: 0 
+
+Sample 1276
+Input: 0 1 
+Output: 0.00185161 
+Target: 0 
+
+Sample 1277
+Input: 1 0 
+Output: -0.000261536 
+Target: 0 
+
+Sample 1278
+Input: 0 1 
+Output: -0.0017644 
+Target: 0 
+
+Sample 1279
+Input: 1 0 
+Output: -0.000631204 
+Target: 0 
+
+Sample 1280
+Input: 0 1 
+Output: 0.000411523 
+Target: 0 
+
+Sample 1281
+Input: 0 0 
+Output: -0.0025126 
+Target: 0 
+
+Sample 1282
+Input: 0 0 
+Output: -0.00102206 
+Target: 0 
+
+Sample 1283
+Input: 0 1 
+Output: 0.00239164 
+Target: 0 
+
+Sample 1284
+Input: 1 0 
+Output: 0.00163194 
+Target: 0 
+
+Sample 1285
+Input: 1 0 
+Output: -0.000605351 
+Target: 0 
+
+Sample 1286
+Input: 1 0 
+Output: -0.00108715 
+Target: 0 
+
+Sample 1287
+Input: 1 1 
+Output: 0.95168 
+Target: 1 
+
+Sample 1288
+Input: 1 0 
+Output: 0.00410625 
+Target: 0 
+
+Sample 1289
+Input: 0 1 
+Output: 0.00156298 
+Target: 0 
+
+Sample 1290
+Input: 1 0 
+Output: -0.000161036 
+Target: 0 
+
+Sample 1291
+Input: 0 1 
+Output: -0.00112344 
+Target: 0 
+
+Sample 1292
+Input: 0 1 
+Output: -0.000435831 
+Target: 0 
+
+Sample 1293
+Input: 0 0 
+Output: -0.00213636 
+Target: 0 
+
+Sample 1294
+Input: 1 0 
+Output: 0.000733555 
+Target: 0 
+
+Sample 1295
+Input: 0 1 
+Output: 0.00165979 
+Target: 0 
+
+Sample 1296
+Input: 1 1 
+Output: 0.951924 
+Target: 1 
+
+Sample 1297
+Input: 0 0 
+Output: -0.000378404 
+Target: 0 
+
+Sample 1298
+Input: 1 0 
+Output: 0.00428813 
+Target: 0 
+
+Sample 1299
+Input: 1 0 
+Output: 0.000647153 
+Target: 0 
+
+Sample 1300
+Input: 1 1 
+Output: 0.95215 
+Target: 1 
+
+Sample 1301
+Input: 1 0 
+Output: 0.000661207 
+Target: 0 
+
+Sample 1302
+Input: 0 0 
+Output: -0.00241397 
+Target: 0 
+
+Sample 1303
+Input: 0 1 
+Output: 0.00681285 
+Target: 0 
+
+Sample 1304
+Input: 1 1 
+Output: 0.952327 
+Target: 1 
+
+Sample 1305
+Input: 1 0 
+Output: 0.000616049 
+Target: 0 
+
+Sample 1306
+Input: 1 1 
+Output: 0.952636 
+Target: 1 
+
+Sample 1307
+Input: 0 0 
+Output: -0.00323702 
+Target: 0 
+
+Sample 1308
+Input: 1 0 
+Output: 0.00796989 
+Target: 0 
+
+Sample 1309
+Input: 0 1 
+Output: 0.00443025 
+Target: 0 
+
+Sample 1310
+Input: 0 0 
+Output: -0.0060708 
+Target: 0 
+
+Sample 1311
+Input: 0 0 
+Output: -0.00397903 
+Target: 0 
+
+Sample 1312
+Input: 0 0 
+Output: -0.000656164 
+Target: 0 
+
+Sample 1313
+Input: 1 1 
+Output: 0.952124 
+Target: 1 
+
+Sample 1314
+Input: 1 1 
+Output: 0.952595 
+Target: 1 
+
+Sample 1315
+Input: 0 0 
+Output: 0.00463371 
+Target: 0 
+
+Sample 1316
+Input: 0 1 
+Output: 0.0102513 
+Target: 0 
+
+Sample 1317
+Input: 1 1 
+Output: 0.952937 
+Target: 1 
+
+Sample 1318
+Input: 1 1 
+Output: 0.953075 
+Target: 1 
+
+Sample 1319
+Input: 0 1 
+Output: 0.00240471 
+Target: 0 
+
+Sample 1320
+Input: 0 0 
+Output: -0.00504391 
+Target: 0 
+
+Sample 1321
+Input: 0 0 
+Output: -0.00266432 
+Target: 0 
+
+Sample 1322
+Input: 0 0 
+Output: 5.08537e-05 
+Target: 0 
+
+Sample 1323
+Input: 0 0 
+Output: 0.00137936 
+Target: 0 
+
+Sample 1324
+Input: 1 1 
+Output: 0.95392 
+Target: 1 
+
+Sample 1325
+Input: 1 0 
+Output: 0.0154588 
+Target: 0 
+
+Sample 1326
+Input: 0 0 
+Output: -0.0041092 
+Target: 0 
+
+Sample 1327
+Input: 1 0 
+Output: -0.00486352 
+Target: 0 
+
+Sample 1328
+Input: 1 0 
+Output: -0.00255153 
+Target: 0 
+
+Sample 1329
+Input: 1 0 
+Output: 0.00130352 
+Target: 0 
+
+Sample 1330
+Input: 1 1 
+Output: 0.953424 
+Target: 1 
+
+Sample 1331
+Input: 0 0 
+Output: 4.82377e-05 
+Target: 0 
+
+Sample 1332
+Input: 1 0 
+Output: 0.00761727 
+Target: 0 
+
+Sample 1333
+Input: 1 1 
+Output: 0.953643 
+Target: 1 
+
+Sample 1334
+Input: 1 0 
+Output: 0.00048372 
+Target: 0 
+
+Sample 1335
+Input: 0 0 
+Output: -0.00379675 
+Target: 0 
+
+Sample 1336
+Input: 0 0 
+Output: -0.00191474 
+Target: 0 
+
+Sample 1337
+Input: 1 1 
+Output: 0.954061 
+Target: 1 
+
+Sample 1338
+Input: 1 0 
+Output: 0.00683952 
+Target: 0 
+
+Sample 1339
+Input: 1 1 
+Output: 0.954229 
+Target: 1 
+
+Sample 1340
+Input: 1 0 
+Output: 0.00255814 
+Target: 0 
+
+Sample 1341
+Input: 0 1 
+Output: 0.0131091 
+Target: 0 
+
+Sample 1342
+Input: 1 1 
+Output: 0.953443 
+Target: 1 
+
+Sample 1343
+Input: 1 0 
+Output: -0.0104873 
+Target: 0 
+
+Sample 1344
+Input: 0 1 
+Output: 0.00192279 
+Target: 0 
+
+Sample 1345
+Input: 0 0 
+Output: -0.00536492 
+Target: 0 
+
+Sample 1346
+Input: 1 1 
+Output: 0.954577 
+Target: 1 
+
+Sample 1347
+Input: 0 0 
+Output: 0.000517508 
+Target: 0 
+
+Sample 1348
+Input: 0 0 
+Output: 0.00140969 
+Target: 0 
+
+Sample 1349
+Input: 1 1 
+Output: 0.955424 
+Target: 1 
+
+Sample 1350
+Input: 0 0 
+Output: 0.00146713 
+Target: 0 
+
+Sample 1351
+Input: 0 1 
+Output: 0.0166959 
+Target: 0 
+
+Sample 1352
+Input: 0 0 
+Output: -0.00582967 
+Target: 0 
+
+Sample 1353
+Input: 0 1 
+Output: -0.00505727 
+Target: 0 
+
+Sample 1354
+Input: 0 0 
+Output: -0.00388475 
+Target: 0 
+
+Sample 1355
+Input: 0 0 
+Output: -0.000689537 
+Target: 0 
+
+Sample 1356
+Input: 0 0 
+Output: 0.00130377 
+Target: 0 
+
+Sample 1357
+Input: 1 1 
+Output: 0.954805 
+Target: 1 
+
+Sample 1358
+Input: 0 1 
+Output: 0.00482371 
+Target: 0 
+
+Sample 1359
+Input: 0 0 
+Output: 0.000829509 
+Target: 0 
+
+Sample 1360
+Input: 1 0 
+Output: 0.0162909 
+Target: 0 
+
+Sample 1361
+Input: 0 1 
+Output: -0.0114972 
+Target: 0 
+
+Sample 1362
+Input: 0 1 
+Output: -0.00586035 
+Target: 0 
+
+Sample 1363
+Input: 0 0 
+Output: -0.0041462 
+Target: 0 
+
+Sample 1364
+Input: 1 0 
+Output: 0.00305257 
+Target: 0 
+
+Sample 1365
+Input: 0 0 
+Output: 0.000158891 
+Target: 0 
+
+Sample 1366
+Input: 0 1 
+Output: 0.0100515 
+Target: 0 
+
+Sample 1367
+Input: 1 0 
+Output: -0.00641184 
+Target: 0 
+
+Sample 1368
+Input: 1 0 
+Output: -0.00307036 
+Target: 0 
+
+Sample 1369
+Input: 0 0 
+Output: -0.000996469 
+Target: 0 
+
+Sample 1370
+Input: 0 1 
+Output: 0.00234431 
+Target: 0 
+
+Sample 1371
+Input: 0 1 
+Output: 0.000616328 
+Target: 0 
+
+Sample 1372
+Input: 1 0 
+Output: 0.00422297 
+Target: 0 
+
+Sample 1373
+Input: 1 0 
+Output: -0.000482194 
+Target: 0 
+
+Sample 1374
+Input: 1 1 
+Output: 0.953752 
+Target: 1 
+
+Sample 1375
+Input: 0 1 
+Output: -0.00297983 
+Target: 0 
+
+Sample 1376
+Input: 0 1 
+Output: 0.00133992 
+Target: 0 
+
+Sample 1377
+Input: 0 1 
+Output: 0.002175 
+Target: 0 
+
+Sample 1378
+Input: 0 0 
+Output: -0.00186284 
+Target: 0 
+
+Sample 1379
+Input: 1 0 
+Output: 0.00350602 
+Target: 0 
+
+Sample 1380
+Input: 0 0 
+Output: -0.00224889 
+Target: 0 
+
+Sample 1381
+Input: 0 1 
+Output: -0.00236591 
+Target: 0 
+
+Sample 1382
+Input: 0 0 
+Output: -0.000215271 
+Target: 0 
+
+Sample 1383
+Input: 1 1 
+Output: 0.954264 
+Target: 1 
+
+Sample 1384
+Input: 1 0 
+Output: 0.00448253 
+Target: 0 
+
+Sample 1385
+Input: 1 1 
+Output: 0.9546 
+Target: 1 
+
+Sample 1386
+Input: 1 0 
+Output: 0.00358147 
+Target: 0 
+
+Sample 1387
+Input: 1 0 
+Output: 0.000758602 
+Target: 0 
+
+Sample 1388
+Input: 0 0 
+Output: -0.00226987 
+Target: 0 
+
+Sample 1389
+Input: 0 0 
+Output: -0.00148457 
+Target: 0 
+
+Sample 1390
+Input: 0 1 
+Output: 0.00631314 
+Target: 0 
+
+Sample 1391
+Input: 1 1 
+Output: 0.954289 
+Target: 1 
+
+Sample 1392
+Input: 1 1 
+Output: 0.954478 
+Target: 1 
+
+Sample 1393
+Input: 0 0 
+Output: -0.00177328 
+Target: 0 
+
+Sample 1394
+Input: 0 0 
+Output: -0.000502648 
+Target: 0 
+
+Sample 1395
+Input: 0 1 
+Output: 0.00835083 
+Target: 0 
+
+Sample 1396
+Input: 0 1 
+Output: 0.00077203 
+Target: 0 
+
+Sample 1397
+Input: 0 0 
+Output: -0.00395035 
+Target: 0 
+
+Sample 1398
+Input: 0 1 
+Output: -0.00454912 
+Target: 0 
+
+Sample 1399
+Input: 0 1 
+Output: -0.000430786 
+Target: 0 
+
+Sample 1400
+Input: 1 0 
+Output: 0.00292606 
+Target: 0 
+
+Sample 1401
+Input: 1 1 
+Output: 0.954748 
+Target: 1 
+
+Sample 1402
+Input: 0 1 
+Output: 0.00440474 
+Target: 0 
+
+Sample 1403
+Input: 1 0 
+Output: 0.0013 
+Target: 0 
+
+Sample 1404
+Input: 0 0 
+Output: -0.00152779 
+Target: 0 
+
+Sample 1405
+Input: 0 0 
+Output: -0.00128446 
+Target: 0 
+
+Sample 1406
+Input: 0 0 
+Output: -0.000423766 
+Target: 0 
+
+Sample 1407
+Input: 0 1 
+Output: -0.00081667 
+Target: 0 
+
+Sample 1408
+Input: 0 0 
+Output: 0.000898804 
+Target: 0 
+
+Sample 1409
+Input: 0 0 
+Output: 0.000705859 
+Target: 0 
+
+Sample 1410
+Input: 0 0 
+Output: 0.000203266 
+Target: 0 
+
+Sample 1411
+Input: 1 1 
+Output: 0.95475 
+Target: 1 
+
+Sample 1412
+Input: 0 0 
+Output: 0.000272537 
+Target: 0 
+
+Sample 1413
+Input: 0 1 
+Output: 0.00460606 
+Target: 0 
+
+Sample 1414
+Input: 0 1 
+Output: 0.000788205 
+Target: 0 
+
+Sample 1415
+Input: 1 0 
+Output: 0.000273169 
+Target: 0 
+
+Sample 1416
+Input: 1 1 
+Output: 0.954832 
+Target: 1 
+
+Sample 1417
+Input: 1 0 
+Output: 0.00201873 
+Target: 0 
+
+Sample 1418
+Input: 0 0 
+Output: -0.00365195 
+Target: 0 
+
+Sample 1419
+Input: 1 0 
+Output: 0.00239888 
+Target: 0 
+
+Sample 1420
+Input: 1 0 
+Output: 0.000395453 
+Target: 0 
+
+Sample 1421
+Input: 1 0 
+Output: -0.0010276 
+Target: 0 
+
+Sample 1422
+Input: 0 1 
+Output: -0.000758608 
+Target: 0 
+
+Sample 1423
+Input: 0 0 
+Output: -0.00142738 
+Target: 0 
+
+Sample 1424
+Input: 0 0 
+Output: -0.000382721 
+Target: 0 
+
+Sample 1425
+Input: 1 1 
+Output: 0.955194 
+Target: 1 
+
+Sample 1426
+Input: 1 1 
+Output: 0.955604 
+Target: 1 
+
+Sample 1427
+Input: 0 1 
+Output: 0.010361 
+Target: 0 
+
+Sample 1428
+Input: 1 1 
+Output: 0.955741 
+Target: 1 
+
+Sample 1429
+Input: 1 1 
+Output: 0.955897 
+Target: 1 
+
+Sample 1430
+Input: 0 0 
+Output: -0.00205202 
+Target: 0 
+
+Sample 1431
+Input: 1 0 
+Output: 0.0139227 
+Target: 0 
+
+Sample 1432
+Input: 1 0 
+Output: 0.000367807 
+Target: 0 
+
+Sample 1433
+Input: 0 0 
+Output: -0.00855939 
+Target: 0 
+
+Sample 1434
+Input: 1 1 
+Output: 0.955105 
+Target: 1 
+
+Sample 1435
+Input: 0 0 
+Output: -0.00254893 
+Target: 0 
+
+Sample 1436
+Input: 1 0 
+Output: -0.000915524 
+Target: 0 
+
+Sample 1437
+Input: 0 1 
+Output: 0.00460392 
+Target: 0 
+
+Sample 1438
+Input: 0 1 
+Output: 0.00104453 
+Target: 0 
+
+Sample 1439
+Input: 0 0 
+Output: 8.3275e-05 
+Target: 0 
+
+Sample 1440
+Input: 1 1 
+Output: 0.955261 
+Target: 1 
+
+Sample 1441
+Input: 1 0 
+Output: 0.00010045 
+Target: 0 
+
+Sample 1442
+Input: 0 0 
+Output: 0.000127302 
+Target: 0 
+
+Sample 1443
+Input: 0 1 
+Output: 0.00106809 
+Target: 0 
+
+Sample 1444
+Input: 1 1 
+Output: 0.955811 
+Target: 1 
+
+Sample 1445
+Input: 0 0 
+Output: 0.000107067 
+Target: 0 
+
+Sample 1446
+Input: 1 0 
+Output: 0.00625492 
+Target: 0 
+
+Sample 1447
+Input: 0 1 
+Output: 0.00102941 
+Target: 0 
+
+Sample 1448
+Input: 0 0 
+Output: -0.00385871 
+Target: 0 
+
+Sample 1449
+Input: 1 1 
+Output: 0.955644 
+Target: 1 
+
+Sample 1450
+Input: 0 0 
+Output: -0.00114356 
+Target: 0 
+
+Sample 1451
+Input: 0 0 
+Output: 0.000168041 
+Target: 0 
+
+Sample 1452
+Input: 1 1 
+Output: 0.956267 
+Target: 1 
+
+Sample 1453
+Input: 1 1 
+Output: 0.956679 
+Target: 1 
+
+Sample 1454
+Input: 0 0 
+Output: 0.00258658 
+Target: 0 
+
+Sample 1455
+Input: 0 1 
+Output: 0.0146046 
+Target: 0 
+
+Sample 1456
+Input: 1 1 
+Output: 0.956584 
+Target: 1 
+
+Sample 1457
+Input: 1 0 
+Output: 0.00259361 
+Target: 0 
+
+Sample 1458
+Input: 0 1 
+Output: -0.00678461 
+Target: 0 
+
+Sample 1459
+Input: 0 0 
+Output: -0.00777618 
+Target: 0 
+
+Sample 1460
+Input: 1 1 
+Output: 0.956899 
+Target: 1 
+
+Sample 1461
+Input: 0 1 
+Output: 0.0093757 
+Target: 0 
+
+Sample 1462
+Input: 1 1 
+Output: 0.956981 
+Target: 1 
+
+Sample 1463
+Input: 0 1 
+Output: 0.00263091 
+Target: 0 
+
+Sample 1464
+Input: 0 0 
+Output: -0.0030532 
+Target: 0 
+
+Sample 1465
+Input: 1 0 
+Output: 0.00942779 
+Target: 0 
+
+Sample 1466
+Input: 0 1 
+Output: -0.00654925 
+Target: 0 
+
+Sample 1467
+Input: 0 1 
+Output: -0.00312859 
+Target: 0 
+
+Sample 1468
+Input: 0 0 
+Output: -0.00263692 
+Target: 0 
+
+Sample 1469
+Input: 1 0 
+Output: 0.00265063 
+Target: 0 
+
+Sample 1470
+Input: 0 1 
+Output: 0.00512585 
+Target: 0 
+
+Sample 1471
+Input: 1 0 
+Output: -0.003496 
+Target: 0 
+
+Sample 1472
+Input: 1 1 
+Output: 0.956404 
+Target: 1 
+
+Sample 1473
+Input: 1 1 
+Output: 0.956792 
+Target: 1 
+
+Sample 1474
+Input: 1 0 
+Output: 0.00721144 
+Target: 0 
+
+Sample 1475
+Input: 0 0 
+Output: -0.00231123 
+Target: 0 
+
+Sample 1476
+Input: 1 0 
+Output: 0.000354754 
+Target: 0 
+
+Sample 1477
+Input: 0 0 
+Output: -0.00228475 
+Target: 0 
+
+Sample 1478
+Input: 1 1 
+Output: 0.956925 
+Target: 1 
+
+Sample 1479
+Input: 0 0 
+Output: 0.000194048 
+Target: 0 
+
+Sample 1480
+Input: 1 1 
+Output: 0.957445 
+Target: 1 
+
+Sample 1481
+Input: 0 0 
+Output: 0.00147729 
+Target: 0 
+
+Sample 1482
+Input: 1 1 
+Output: 0.958059 
+Target: 1 
+
+Sample 1483
+Input: 0 1 
+Output: 0.0182627 
+Target: 0 
+
+Sample 1484
+Input: 1 1 
+Output: 0.957435 
+Target: 1 
+
+Sample 1485
+Input: 0 0 
+Output: -0.00836879 
+Target: 0 
+
+Sample 1486
+Input: 0 0 
+Output: -0.00496222 
+Target: 0 
+
+Sample 1487
+Input: 1 0 
+Output: 0.00645198 
+Target: 0 
+
+Sample 1488
+Input: 1 1 
+Output: 0.956905 
+Target: 1 
+
+Sample 1489
+Input: 0 1 
+Output: -0.00258294 
+Target: 0 
+
+Sample 1490
+Input: 1 0 
+Output: 0.00344868 
+Target: 0 
+
+Sample 1491
+Input: 1 1 
+Output: 0.957173 
+Target: 1 
+
+Sample 1492
+Input: 1 0 
+Output: 0.00237517 
+Target: 0 
+
+Sample 1493
+Input: 1 1 
+Output: 0.957433 
+Target: 1 
+
+Sample 1494
+Input: 1 0 
+Output: 0.00283973 
+Target: 0 
+
+Sample 1495
+Input: 1 1 
+Output: 0.957722 
+Target: 1 
+
+Sample 1496
+Input: 0 1 
+Output: 0.00782489 
+Target: 0 
+
+Sample 1497
+Input: 1 1 
+Output: 0.957655 
+Target: 1 
+
+Sample 1498
+Input: 1 1 
+Output: 0.9578 
+Target: 1 
+
+Sample 1499
+Input: 1 1 
+Output: 0.958204 
+Target: 1 
+
+Sample 1500
+Input: 1 1 
+Output: 0.958725 
+Target: 1 
+
+Sample 1501
+Input: 0 0 
+Output: -0.00422001 
+Target: 0 
+
+Sample 1502
+Input: 1 0 
+Output: 0.0173845 
+Target: 0 
+
+Sample 1503
+Input: 0 0 
+Output: -0.00702889 
+Target: 0 
+
+Sample 1504
+Input: 1 0 
+Output: -0.00477992 
+Target: 0 
+
+Sample 1505
+Input: 1 1 
+Output: 0.958277 
+Target: 1 
+
+Sample 1506
+Input: 1 1 
+Output: 0.958656 
+Target: 1 
+
+Sample 1507
+Input: 0 0 
+Output: 3.39282e-05 
+Target: 0 
+
+Sample 1508
+Input: 0 0 
+Output: 0.000728291 
+Target: 0 
+
+Sample 1509
+Input: 1 1 
+Output: 0.959514 
+Target: 1 
+
+Sample 1510
+Input: 0 0 
+Output: 0.00111312 
+Target: 0 
+
+Sample 1511
+Input: 0 1 
+Output: 0.0240264 
+Target: 0 
+
+Sample 1512
+Input: 0 0 
+Output: -0.00871245 
+Target: 0 
+
+Sample 1513
+Input: 0 1 
+Output: -0.0081992 
+Target: 0 
+
+Sample 1514
+Input: 1 0 
+Output: -0.00137816 
+Target: 0 
+
+Sample 1515
+Input: 0 0 
+Output: -0.00281959 
+Target: 0 
+
+Sample 1516
+Input: 1 1 
+Output: 0.958395 
+Target: 1 
+
+Sample 1517
+Input: 0 0 
+Output: 0.00182606 
+Target: 0 
+
+Sample 1518
+Input: 1 1 
+Output: 0.958952 
+Target: 1 
+
+Sample 1519
+Input: 1 0 
+Output: 0.0137007 
+Target: 0 
+
+Sample 1520
+Input: 0 1 
+Output: 0.00285609 
+Target: 0 
+
+Sample 1521
+Input: 0 1 
+Output: -0.00364035 
+Target: 0 
+
+Sample 1522
+Input: 0 0 
+Output: -0.00743967 
+Target: 0 
+
+Sample 1523
+Input: 1 1 
+Output: 0.95805 
+Target: 1 
+
+Sample 1524
+Input: 0 1 
+Output: 0.00425639 
+Target: 0 
+
+Sample 1525
+Input: 0 1 
+Output: 0.0021788 
+Target: 0 
+
+Sample 1526
+Input: 0 1 
+Output: -0.00105296 
+Target: 0 
+
+Sample 1527
+Input: 1 1 
+Output: 0.958072 
+Target: 1 
+
+Sample 1528
+Input: 1 0 
+Output: -0.00342008 
+Target: 0 
+
+Sample 1529
+Input: 1 1 
+Output: 0.958777 
+Target: 1 
+
+Sample 1530
+Input: 0 0 
+Output: 0.00120874 
+Target: 0 
+
+Sample 1531
+Input: 1 1 
+Output: 0.959515 
+Target: 1 
+
+Sample 1532
+Input: 1 0 
+Output: 0.0132083 
+Target: 0 
+
+Sample 1533
+Input: 1 0 
+Output: 0.000796427 
+Target: 0 
+
+Sample 1534
+Input: 0 1 
+Output: 0.00369975 
+Target: 0 
+
+Sample 1535
+Input: 1 0 
+Output: -0.0122149 
+Target: 0 
+
+Sample 1536
+Input: 0 1 
+Output: 0.00311506 
+Target: 0 
+
+Sample 1537
+Input: 1 1 
+Output: 0.959084 
+Target: 1 
+
+Sample 1538
+Input: 1 1 
+Output: 0.959435 
+Target: 1 
+
+Sample 1539
+Input: 0 0 
+Output: -0.0034245 
+Target: 0 
+
+Sample 1540
+Input: 1 1 
+Output: 0.960178 
+Target: 1 
+
+Sample 1541
+Input: 0 1 
+Output: 0.0164434 
+Target: 0 
+
+Sample 1542
+Input: 0 1 
+Output: 0.00190453 
+Target: 0 
+
+Sample 1543
+Input: 0 0 
+Output: -0.00821176 
+Target: 0 
+
+Sample 1544
+Input: 1 0 
+Output: 0.00552808 
+Target: 0 
+
+Sample 1545
+Input: 1 1 
+Output: 0.95849 
+Target: 1 
+
+Sample 1546
+Input: 0 1 
+Output: -0.012376 
+Target: 0 
+
+Sample 1547
+Input: 1 1 
+Output: 0.959439 
+Target: 1 
+
+Sample 1548
+Input: 0 1 
+Output: 0.0095202 
+Target: 0 
+
+Sample 1549
+Input: 1 0 
+Output: 0.0120093 
+Target: 0 
+
+Sample 1550
+Input: 0 0 
+Output: -0.00618483 
+Target: 0 
+
+Sample 1551
+Input: 0 1 
+Output: -0.00878331 
+Target: 0 
+
+Sample 1552
+Input: 1 1 
+Output: 0.958912 
+Target: 1 
+
+Sample 1553
+Input: 0 1 
+Output: 0.00515678 
+Target: 0 
+
+Sample 1554
+Input: 1 1 
+Output: 0.959317 
+Target: 1 
+
+Sample 1555
+Input: 1 0 
+Output: 0.00188481 
+Target: 0 
+
+Sample 1556
+Input: 0 0 
+Output: -0.000982047 
+Target: 0 
+
+Sample 1557
+Input: 0 1 
+Output: 0.00476687 
+Target: 0 
+
+Sample 1558
+Input: 1 1 
+Output: 0.959264 
+Target: 1 
+
+Sample 1559
+Input: 1 1 
+Output: 0.959408 
+Target: 1 
+
+Sample 1560
+Input: 1 0 
+Output: 0.0023526 
+Target: 0 
+
+Sample 1561
+Input: 1 1 
+Output: 0.959801 
+Target: 1 
+
+Sample 1562
+Input: 1 0 
+Output: 0.00378629 
+Target: 0 
+
+Sample 1563
+Input: 0 1 
+Output: 0.00464652 
+Target: 0 
+
+Sample 1564
+Input: 1 1 
+Output: 0.959636 
+Target: 1 
+
+Sample 1565
+Input: 1 0 
+Output: -0.00324206 
+Target: 0 
+
+Sample 1566
+Input: 0 0 
+Output: -0.00711523 
+Target: 0 
+
+Sample 1567
+Input: 1 1 
+Output: 0.960247 
+Target: 1 
+
+Sample 1568
+Input: 1 0 
+Output: 0.0103918 
+Target: 0 
+
+Sample 1569
+Input: 1 1 
+Output: 0.960136 
+Target: 1 
+
+Sample 1570
+Input: 1 1 
+Output: 0.960167 
+Target: 1 
+
+Sample 1571
+Input: 1 0 
+Output: 0.00169716 
+Target: 0 
+
+Sample 1572
+Input: 1 1 
+Output: 0.960498 
+Target: 1 
+
+Sample 1573
+Input: 1 0 
+Output: 0.00292412 
+Target: 0 
+
+Sample 1574
+Input: 1 0 
+Output: 0.000816604 
+Target: 0 
+
+Sample 1575
+Input: 0 0 
+Output: -0.00609336 
+Target: 0 
+
+Sample 1576
+Input: 1 1 
+Output: 0.960695 
+Target: 1 
+
+Sample 1577
+Input: 1 0 
+Output: 0.00376375 
+Target: 0 
+
+Sample 1578
+Input: 1 1 
+Output: 0.960876 
+Target: 1 
+
+Sample 1579
+Input: 0 1 
+Output: 0.0168828 
+Target: 0 
+
+Sample 1580
+Input: 1 1 
+Output: 0.960098 
+Target: 1 
+
+Sample 1581
+Input: 1 1 
+Output: 0.959879 
+Target: 1 
+
+Sample 1582
+Input: 1 1 
+Output: 0.960059 
+Target: 1 
+
+Sample 1583
+Input: 1 1 
+Output: 0.960432 
+Target: 1 
+
+Sample 1584
+Input: 1 1 
+Output: 0.960893 
+Target: 1 
+
+Sample 1585
+Input: 0 1 
+Output: 0.00628973 
+Target: 0 
+
+Sample 1586
+Input: 0 0 
+Output: -0.0120632 
+Target: 0 
+
+Sample 1587
+Input: 1 1 
+Output: 0.961293 
+Target: 1 
+
+Sample 1588
+Input: 0 1 
+Output: 0.00842834 
+Target: 0 
+
+Sample 1589
+Input: 0 1 
+Output: 0.00171508 
+Target: 0 
+
+Sample 1590
+Input: 1 0 
+Output: 0.00466903 
+Target: 0 
+
+Sample 1591
+Input: 1 0 
+Output: -0.00182753 
+Target: 0 
+
+Sample 1592
+Input: 1 1 
+Output: 0.9603 
+Target: 1 
+
+Sample 1593
+Input: 1 0 
+Output: -0.00102239 
+Target: 0 
+
+Sample 1594
+Input: 0 1 
+Output: -0.00723987 
+Target: 0 
+
+Sample 1595
+Input: 0 0 
+Output: -0.00495581 
+Target: 0 
+
+Sample 1596
+Input: 1 0 
+Output: 0.011917 
+Target: 0 
+
+Sample 1597
+Input: 0 1 
+Output: 0.00203161 
+Target: 0 
+
+Sample 1598
+Input: 1 0 
+Output: -0.00529624 
+Target: 0 
+
+Sample 1599
+Input: 1 1 
+Output: 0.960661 
+Target: 1 
+
+Sample 1600
+Input: 1 0 
+Output: 0.00103851 
+Target: 0 
+
+Sample 1601
+Input: 1 1 
+Output: 0.961096 
+Target: 1 
+
+Sample 1602
+Input: 0 0 
+Output: -0.00258965 
+Target: 0 
+
+Sample 1603
+Input: 0 1 
+Output: 0.00828415 
+Target: 0 
+
+Sample 1604
+Input: 0 1 
+Output: 0.0010753 
+Target: 0 
+
+Sample 1605
+Input: 0 1 
+Output: -0.00362101 
+Target: 0 
+
+Sample 1606
+Input: 1 0 
+Output: 0.00132919 
+Target: 0 
+
+Sample 1607
+Input: 0 0 
+Output: -0.0043345 
+Target: 0 
+
+Sample 1608
+Input: 1 1 
+Output: 0.960941 
+Target: 1 
+
+Sample 1609
+Input: 1 0 
+Output: 0.00489525 
+Target: 0 
+
+Sample 1610
+Input: 1 1 
+Output: 0.96104 
+Target: 1 
+
+Sample 1611
+Input: 1 0 
+Output: 0.0018572 
+Target: 0 
+
+Sample 1612
+Input: 0 1 
+Output: 0.00217073 
+Target: 0 
+
+Sample 1613
+Input: 1 1 
+Output: 0.96102 
+Target: 1 
+
+Sample 1614
+Input: 0 1 
+Output: 0.00109641 
+Target: 0 
+
+Sample 1615
+Input: 1 1 
+Output: 0.961229 
+Target: 1 
+
+Sample 1616
+Input: 1 1 
+Output: 0.961501 
+Target: 1 
+
+Sample 1617
+Input: 1 0 
+Output: 0.00569436 
+Target: 0 
+
+Sample 1618
+Input: 0 0 
+Output: -0.00557895 
+Target: 0 
+
+Sample 1619
+Input: 1 0 
+Output: 0.0014509 
+Target: 0 
+
+Sample 1620
+Input: 1 0 
+Output: -8.38578e-05 
+Target: 0 
+
+Sample 1621
+Input: 1 0 
+Output: -0.000758931 
+Target: 0 
+
+Sample 1622
+Input: 0 1 
+Output: 0.0056149 
+Target: 0 
+
+Sample 1623
+Input: 0 0 
+Output: -0.0040081 
+Target: 0 
+
+Sample 1624
+Input: 1 0 
+Output: -0.0038077 
+Target: 0 
+
+Sample 1625
+Input: 1 0 
+Output: 0.000317736 
+Target: 0 
+
+Sample 1626
+Input: 0 0 
+Output: 0.000612119 
+Target: 0 
+
+Sample 1627
+Input: 1 0 
+Output: 0.00263943 
+Target: 0 
+
+Sample 1628
+Input: 0 0 
+Output: -0.000261406 
+Target: 0 
+
+Sample 1629
+Input: 0 0 
+Output: -0.000614874 
+Target: 0 
+
+Sample 1630
+Input: 1 1 
+Output: 0.961113 
+Target: 1 
+
+Sample 1631
+Input: 1 1 
+Output: 0.961361 
+Target: 1 
+
+Sample 1632
+Input: 1 0 
+Output: 0.00465756 
+Target: 0 
+
+Sample 1633
+Input: 1 1 
+Output: 0.961629 
+Target: 1 
+
+Sample 1634
+Input: 1 0 
+Output: 0.00229806 
+Target: 0 
+
+Sample 1635
+Input: 1 0 
+Output: 0.000217039 
+Target: 0 
+
+Sample 1636
+Input: 0 0 
+Output: -0.00276522 
+Target: 0 
+
+Sample 1637
+Input: 0 1 
+Output: 0.00566369 
+Target: 0 
+
+Sample 1638
+Input: 0 1 
+Output: 0.000299381 
+Target: 0 
+
+Sample 1639
+Input: 1 0 
+Output: -0.00600041 
+Target: 0 
+
+Sample 1640
+Input: 1 0 
+Output: -0.000399184 
+Target: 0 
+
+Sample 1641
+Input: 0 1 
+Output: 0.00127396 
+Target: 0 
+
+Sample 1642
+Input: 0 1 
+Output: 0.000721821 
+Target: 0 
+
+Sample 1643
+Input: 1 0 
+Output: 0.00353325 
+Target: 0 
+
+Sample 1644
+Input: 0 0 
+Output: -0.00239767 
+Target: 0 
+
+Sample 1645
+Input: 1 0 
+Output: -0.00136405 
+Target: 0 
+
+Sample 1646
+Input: 0 0 
+Output: -0.000906667 
+Target: 0 
+
+Sample 1647
+Input: 1 1 
+Output: 0.961343 
+Target: 1 
+
+Sample 1648
+Input: 1 0 
+Output: 0.00349806 
+Target: 0 
+
+Sample 1649
+Input: 0 0 
+Output: 3.11272e-05 
+Target: 0 
+
+Sample 1650
+Input: 1 1 
+Output: 0.961479 
+Target: 1 
+
+Sample 1651
+Input: 0 0 
+Output: -0.000268755 
+Target: 0 
+
+Sample 1652
+Input: 0 1 
+Output: 0.00260538 
+Target: 0 
+
+Sample 1653
+Input: 1 1 
+Output: 0.961726 
+Target: 1 
+
+Sample 1654
+Input: 0 0 
+Output: -0.000881082 
+Target: 0 
+
+Sample 1655
+Input: 1 0 
+Output: 0.0049992 
+Target: 0 
+
+Sample 1656
+Input: 1 0 
+Output: 0.000161346 
+Target: 0 
+
+Sample 1657
+Input: 0 0 
+Output: -0.00311572 
+Target: 0 
+
+Sample 1658
+Input: 0 1 
+Output: -0.000827868 
+Target: 0 
+
+Sample 1659
+Input: 1 1 
+Output: 0.961616 
+Target: 1 
+
+Sample 1660
+Input: 0 0 
+Output: 0.000164656 
+Target: 0 
+
+Sample 1661
+Input: 0 0 
+Output: 0.000540796 
+Target: 0 
+
+Sample 1662
+Input: 0 1 
+Output: 0.00515843 
+Target: 0 
+
+Sample 1663
+Input: 1 0 
+Output: -0.000570306 
+Target: 0 
+
+Sample 1664
+Input: 0 1 
+Output: -0.00199752 
+Target: 0 
+
+Sample 1665
+Input: 1 0 
+Output: -0.00070453 
+Target: 0 
+
+Sample 1666
+Input: 0 0 
+Output: -0.00158889 
+Target: 0 
+
+Sample 1667
+Input: 0 1 
+Output: 0.00101809 
+Target: 0 
+
+Sample 1668
+Input: 1 1 
+Output: 0.961848 
+Target: 1 
+
+Sample 1669
+Input: 0 0 
+Output: 0.000309876 
+Target: 0 
+
+Sample 1670
+Input: 0 1 
+Output: 0.00365356 
+Target: 0 
+
+Sample 1671
+Input: 0 1 
+Output: 0.000399448 
+Target: 0 
+
+Sample 1672
+Input: 0 0 
+Output: -0.00180928 
+Target: 0 
+
+Sample 1673
+Input: 1 0 
+Output: 0.00231969 
+Target: 0 
+
+Sample 1674
+Input: 0 1 
+Output: -0.00364446 
+Target: 0 
+
+Sample 1675
+Input: 0 0 
+Output: -0.000707348 
+Target: 0 
+
+Sample 1676
+Input: 1 0 
+Output: 0.00188605 
+Target: 0 
+
+Sample 1677
+Input: 0 0 
+Output: -4.02283e-05 
+Target: 0 
+
+Sample 1678
+Input: 0 0 
+Output: -0.000163631 
+Target: 0 
+
+Sample 1679
+Input: 0 0 
+Output: -0.000129457 
+Target: 0 
+
+Sample 1680
+Input: 1 0 
+Output: -0.000995141 
+Target: 0 
+
+Sample 1681
+Input: 1 0 
+Output: 4.05201e-05 
+Target: 0 
+
+Sample 1682
+Input: 0 1 
+Output: 0.00136812 
+Target: 0 
+
+Sample 1683
+Input: 1 0 
+Output: -0.000153303 
+Target: 0 
+
+Sample 1684
+Input: 1 1 
+Output: 0.96177 
+Target: 1 
+
+Sample 1685
+Input: 0 1 
+Output: 0.00177114 
+Target: 0 
+
+Sample 1686
+Input: 1 1 
+Output: 0.962015 
+Target: 1 
+
+Sample 1687
+Input: 1 1 
+Output: 0.962264 
+Target: 1 
+
+Sample 1688
+Input: 0 1 
+Output: 0.00645323 
+Target: 0 
+
+Sample 1689
+Input: 0 1 
+Output: 0.00153272 
+Target: 0 
+
+Sample 1690
+Input: 0 0 
+Output: -0.00329229 
+Target: 0 
+
+Sample 1691
+Input: 0 1 
+Output: -0.00323507 
+Target: 0 
+
+Sample 1692
+Input: 0 1 
+Output: -0.000297604 
+Target: 0 
+
+Sample 1693
+Input: 1 0 
+Output: 0.0073963 
+Target: 0 
+
+Sample 1694
+Input: 1 0 
+Output: -8.61548e-05 
+Target: 0 
+
+Sample 1695
+Input: 1 0 
+Output: -0.00372993 
+Target: 0 
+
+Sample 1696
+Input: 0 0 
+Output: -0.0022631 
+Target: 0 
+
+Sample 1697
+Input: 1 1 
+Output: 0.962008 
+Target: 1 
+
+Sample 1698
+Input: 0 0 
+Output: 0.000854806 
+Target: 0 
+
+Sample 1699
+Input: 1 1 
+Output: 0.962437 
+Target: 1 
+
+Sample 1700
+Input: 1 0 
+Output: 0.00860956 
+Target: 0 
+
+Sample 1701
+Input: 0 1 
+Output: 0.00188176 
+Target: 0 
+
+Sample 1702
+Input: 0 1 
+Output: -0.00215189 
+Target: 0 
+
+Sample 1703
+Input: 0 0 
+Output: -0.00446812 
+Target: 0 
+
+Sample 1704
+Input: 0 0 
+Output: -0.00202333 
+Target: 0 
+
+Sample 1705
+Input: 0 1 
+Output: 0.0015495 
+Target: 0 
+
+Sample 1706
+Input: 1 0 
+Output: -0.00331528 
+Target: 0 
+
+Sample 1707
+Input: 0 1 
+Output: 0.00263321 
+Target: 0 
+
+Sample 1708
+Input: 1 0 
+Output: 0.000182554 
+Target: 0 
+
+Sample 1709
+Input: 0 1 
+Output: -0.000161479 
+Target: 0 
+
+Sample 1710
+Input: 0 0 
+Output: 0.00228115 
+Target: 0 
+
+Sample 1711
+Input: 0 1 
+Output: -0.00155534 
+Target: 0 
+
+Sample 1712
+Input: 1 1 
+Output: 0.962088 
+Target: 1 
+
+Sample 1713
+Input: 1 1 
+Output: 0.962373 
+Target: 1 
+
+Sample 1714
+Input: 0 0 
+Output: 0.00189423 
+Target: 0 
+
+Sample 1715
+Input: 0 0 
+Output: 0.00109978 
+Target: 0 
+
+Sample 1716
+Input: 1 1 
+Output: 0.962991 
+Target: 1 
+
+Sample 1717
+Input: 1 1 
+Output: 0.963253 
+Target: 1 
+
+Sample 1718
+Input: 1 1 
+Output: 0.963605 
+Target: 1 
+
+Sample 1719
+Input: 0 0 
+Output: 0.000894509 
+Target: 0 
+
+Sample 1720
+Input: 0 1 
+Output: 0.0188944 
+Target: 0 
+
+Sample 1721
+Input: 1 0 
+Output: 0.00713055 
+Target: 0 
+
+Sample 1722
+Input: 1 0 
+Output: -0.00662879 
+Target: 0 
+
+Sample 1723
+Input: 0 1 
+Output: -0.0164407 
+Target: 0 
+
+Sample 1724
+Input: 0 0 
+Output: -0.00792995 
+Target: 0 
+
+Sample 1725
+Input: 1 0 
+Output: 0.0137436 
+Target: 0 
+
+Sample 1726
+Input: 1 1 
+Output: 0.963027 
+Target: 1 
+
+Sample 1727
+Input: 0 0 
+Output: -0.0025308 
+Target: 0 
+
+Sample 1728
+Input: 1 1 
+Output: 0.962961 
+Target: 1 
+
+Sample 1729
+Input: 1 1 
+Output: 0.963188 
+Target: 1 
+
+Sample 1730
+Input: 0 0 
+Output: 0.000684089 
+Target: 0 
+
+Sample 1731
+Input: 1 1 
+Output: 0.963683 
+Target: 1 
+
+Sample 1732
+Input: 0 0 
+Output: 0.00118291 
+Target: 0 
+
+Sample 1733
+Input: 1 0 
+Output: 0.0101931 
+Target: 0 
+
+Sample 1734
+Input: 0 0 
+Output: -0.0037291 
+Target: 0 
+
+Sample 1735
+Input: 0 1 
+Output: 0.0120615 
+Target: 0 
+
+Sample 1736
+Input: 1 0 
+Output: -0.0143712 
+Target: 0 
+
+Sample 1737
+Input: 1 1 
+Output: 0.962908 
+Target: 1 
+
+Sample 1738
+Input: 0 0 
+Output: -0.00264922 
+Target: 0 
+
+Sample 1739
+Input: 1 1 
+Output: 0.96363 
+Target: 1 
+
+Sample 1740
+Input: 0 0 
+Output: 0.00174435 
+Target: 0 
+
+Sample 1741
+Input: 1 1 
+Output: 0.964125 
+Target: 1 
+
+Sample 1742
+Input: 0 0 
+Output: 0.00189893 
+Target: 0 
+
+Sample 1743
+Input: 0 1 
+Output: 0.0164687 
+Target: 0 
+
+Sample 1744
+Input: 1 0 
+Output: 0.0088288 
+Target: 0 
+
+Sample 1745
+Input: 1 1 
+Output: 0.962564 
+Target: 1 
+
+Sample 1746
+Input: 0 0 
+Output: -0.0160765 
+Target: 0 
+
+Sample 1747
+Input: 1 1 
+Output: 0.962314 
+Target: 1 
+
+Sample 1748
+Input: 1 1 
+Output: 0.962576 
+Target: 1 
+
+Sample 1749
+Input: 1 0 
+Output: 0.00174618 
+Target: 0 
+
+Sample 1750
+Input: 1 0 
+Output: 0.00213149 
+Target: 0 
+
+Sample 1751
+Input: 1 1 
+Output: 0.962914 
+Target: 1 
+
+Sample 1752
+Input: 1 1 
+Output: 0.963095 
+Target: 1 
+
+Sample 1753
+Input: 1 0 
+Output: 0.00421143 
+Target: 0 
+
+Sample 1754
+Input: 1 1 
+Output: 0.963304 
+Target: 1 
+
+Sample 1755
+Input: 1 0 
+Output: 0.00175215 
+Target: 0 
+
+Sample 1756
+Input: 1 1 
+Output: 0.963449 
+Target: 1 
+
+Sample 1757
+Input: 0 0 
+Output: -0.00331762 
+Target: 0 
+
+Sample 1758
+Input: 1 1 
+Output: 0.963798 
+Target: 1 
+
+Sample 1759
+Input: 0 0 
+Output: -1.82816e-05 
+Target: 0 
+
+Sample 1760
+Input: 1 1 
+Output: 0.964222 
+Target: 1 
+
+Sample 1761
+Input: 0 0 
+Output: 0.00141239 
+Target: 0 
+
+Sample 1762
+Input: 0 0 
+Output: 0.000949828 
+Target: 0 
+
+Sample 1763
+Input: 1 1 
+Output: 0.96467 
+Target: 1 
+
+Sample 1764
+Input: 1 1 
+Output: 0.964893 
+Target: 1 
+
+Sample 1765
+Input: 1 1 
+Output: 0.965198 
+Target: 1 
+
+Sample 1766
+Input: 0 1 
+Output: 0.0211173 
+Target: 0 
+
+Sample 1767
+Input: 1 1 
+Output: 0.964473 
+Target: 1 
+
+Sample 1768
+Input: 1 0 
+Output: 0.00556503 
+Target: 0 
+
+Sample 1769
+Input: 0 1 
+Output: -0.014589 
+Target: 0 
+
+Sample 1770
+Input: 0 1 
+Output: -0.00338904 
+Target: 0 
+
+Sample 1771
+Input: 0 0 
+Output: -0.00774383 
+Target: 0 
+
+Sample 1772
+Input: 0 1 
+Output: 0.0132899 
+Target: 0 
+
+Sample 1773
+Input: 0 0 
+Output: -0.00371505 
+Target: 0 
+
+Sample 1774
+Input: 0 0 
+Output: -0.00257417 
+Target: 0 
+
+Sample 1775
+Input: 1 1 
+Output: 0.964073 
+Target: 1 
+
+Sample 1776
+Input: 0 0 
+Output: 0.000949649 
+Target: 0 
+
+Sample 1777
+Input: 1 0 
+Output: 0.00982735 
+Target: 0 
+
+Sample 1778
+Input: 0 1 
+Output: -0.00500516 
+Target: 0 
+
+Sample 1779
+Input: 0 0 
+Output: -0.00290328 
+Target: 0 
+
+Sample 1780
+Input: 0 0 
+Output: -0.00121306 
+Target: 0 
+
+Sample 1781
+Input: 1 1 
+Output: 0.963807 
+Target: 1 
+
+Sample 1782
+Input: 0 1 
+Output: 0.00363961 
+Target: 0 
+
+Sample 1783
+Input: 0 1 
+Output: 0.00136383 
+Target: 0 
+
+Sample 1784
+Input: 0 1 
+Output: -0.00118056 
+Target: 0 
+
+Sample 1785
+Input: 1 0 
+Output: -0.00179353 
+Target: 0 
+
+Sample 1786
+Input: 0 0 
+Output: 0.000483506 
+Target: 0 
+
+Sample 1787
+Input: 0 1 
+Output: 0.000326427 
+Target: 0 
+
+Sample 1788
+Input: 1 1 
+Output: 0.963973 
+Target: 1 
+
+Sample 1789
+Input: 1 1 
+Output: 0.964187 
+Target: 1 
+
+Sample 1790
+Input: 1 0 
+Output: 0.00689184 
+Target: 0 
+
+Sample 1791
+Input: 1 0 
+Output: 0.000913878 
+Target: 0 
+
+Sample 1792
+Input: 0 1 
+Output: 0.000378261 
+Target: 0 
+
+Sample 1793
+Input: 0 1 
+Output: -0.0010666 
+Target: 0 
+
+Sample 1794
+Input: 0 0 
+Output: -0.00386453 
+Target: 0 
+
+Sample 1795
+Input: 1 1 
+Output: 0.963979 
+Target: 1 
+
+Sample 1796
+Input: 0 1 
+Output: 0.00402227 
+Target: 0 
+
+Sample 1797
+Input: 0 1 
+Output: 0.0013747 
+Target: 0 
+
+Sample 1798
+Input: 0 1 
+Output: -0.00136854 
+Target: 0 
+
+Sample 1799
+Input: 0 1 
+Output: -0.00132716 
+Target: 0 
+
+Sample 1800
+Input: 0 0 
+Output: -0.00123398 
+Target: 0 
+
+Sample 1801
+Input: 1 1 
+Output: 0.964093 
+Target: 1 
+
+Sample 1802
+Input: 0 0 
+Output: 0.000661898 
+Target: 0 
+
+Sample 1803
+Input: 0 0 
+Output: 0.000718809 
+Target: 0 
+
+Sample 1804
+Input: 1 0 
+Output: 0.00193426 
+Target: 0 
+
+Sample 1805
+Input: 0 1 
+Output: 0.00423064 
+Target: 0 
+
+Sample 1806
+Input: 1 1 
+Output: 0.964094 
+Target: 1 
+
+Sample 1807
+Input: 1 0 
+Output: -0.00363013 
+Target: 0 
+
+Sample 1808
+Input: 0 0 
+Output: -0.00233193 
+Target: 0 
+
+Sample 1809
+Input: 1 1 
+Output: 0.964555 
+Target: 1 
+
+Sample 1810
+Input: 0 1 
+Output: 0.00638938 
+Target: 0 
+
+Sample 1811
+Input: 0 1 
+Output: 0.00133709 
+Target: 0 
+
+Sample 1812
+Input: 0 0 
+Output: -0.00223951 
+Target: 0 
+
+Sample 1813
+Input: 1 1 
+Output: 0.964315 
+Target: 1 
+
+Sample 1814
+Input: 1 1 
+Output: 0.964483 
+Target: 1 
+
+Sample 1815
+Input: 0 0 
+Output: -0.000203473 
+Target: 0 
+
+Sample 1816
+Input: 0 0 
+Output: 0.000282565 
+Target: 0 
+
+Sample 1817
+Input: 1 1 
+Output: 0.964982 
+Target: 1 
+
+Sample 1818
+Input: 0 1 
+Output: 0.00541628 
+Target: 0 
+
+Sample 1819
+Input: 1 0 
+Output: 0.0105259 
+Target: 0 
+
+Sample 1820
+Input: 1 1 
+Output: 0.964264 
+Target: 1 
+
+Sample 1821
+Input: 1 1 
+Output: 0.964094 
+Target: 1 
+
+Sample 1822
+Input: 0 0 
+Output: -0.00941457 
+Target: 0 
+
+Sample 1823
+Input: 1 1 
+Output: 0.964385 
+Target: 1 
+
+Sample 1824
+Input: 0 0 
+Output: -0.00124018 
+Target: 0 
+
+Sample 1825
+Input: 0 1 
+Output: 0.00108731 
+Target: 0 
+
+Sample 1826
+Input: 1 0 
+Output: 0.00466225 
+Target: 0 
+
+Sample 1827
+Input: 1 0 
+Output: -0.00024641 
+Target: 0 
+
+Sample 1828
+Input: 1 0 
+Output: -0.0024254 
+Target: 0 
+
+Sample 1829
+Input: 0 1 
+Output: -0.00219007 
+Target: 0 
+
+Sample 1830
+Input: 0 1 
+Output: 0.000546979 
+Target: 0 
+
+Sample 1831
+Input: 1 1 
+Output: 0.964754 
+Target: 1 
+
+Sample 1832
+Input: 1 0 
+Output: 0.0047385 
+Target: 0 
+
+Sample 1833
+Input: 0 0 
+Output: 0.00051343 
+Target: 0 
+
+Sample 1834
+Input: 0 1 
+Output: 0.00074794 
+Target: 0 
+
+Sample 1835
+Input: 0 0 
+Output: -0.00148822 
+Target: 0 
+
+Sample 1836
+Input: 1 0 
+Output: -0.00329939 
+Target: 0 
+
+Sample 1837
+Input: 1 0 
+Output: 0.000276412 
+Target: 0 
+
+Sample 1838
+Input: 0 0 
+Output: 0.00122869 
+Target: 0 
+
+Sample 1839
+Input: 1 1 
+Output: 0.964878 
+Target: 1 
+
+Sample 1840
+Input: 1 0 
+Output: 0.00422895 
+Target: 0 
+
+Sample 1841
+Input: 1 1 
+Output: 0.964936 
+Target: 1 
+
+Sample 1842
+Input: 1 1 
+Output: 0.965057 
+Target: 1 
+
+Sample 1843
+Input: 1 0 
+Output: 0.00321563 
+Target: 0 
+
+Sample 1844
+Input: 0 1 
+Output: 0.00552 
+Target: 0 
+
+Sample 1845
+Input: 0 0 
+Output: -0.00496978 
+Target: 0 
+
+Sample 1846
+Input: 0 1 
+Output: -0.0017706 
+Target: 0 
+
+Sample 1847
+Input: 0 0 
+Output: -0.00195661 
+Target: 0 
+
+Sample 1848
+Input: 0 0 
+Output: -6.80696e-05 
+Target: 0 
+
+Sample 1849
+Input: 1 1 
+Output: 0.964864 
+Target: 1 
+
+Sample 1850
+Input: 0 1 
+Output: 0.00404945 
+Target: 0 
+
+Sample 1851
+Input: 1 0 
+Output: -0.000619118 
+Target: 0 
+
+Sample 1852
+Input: 1 0 
+Output: -0.000666985 
+Target: 0 
+
+Sample 1853
+Input: 0 0 
+Output: 0.000447593 
+Target: 0 
+
+Sample 1854
+Input: 1 0 
+Output: 0.0002268 
+Target: 0 
+
+Sample 1855
+Input: 0 0 
+Output: 4.57224e-05 
+Target: 0 
+
+Sample 1856
+Input: 0 1 
+Output: -0.000734278 
+Target: 0 
+
+Sample 1857
+Input: 1 1 
+Output: 0.964966 
+Target: 1 
+
+Sample 1858
+Input: 1 1 
+Output: 0.965182 
+Target: 1 
+
+Sample 1859
+Input: 0 1 
+Output: 0.00559554 
+Target: 0 
+
+Sample 1860
+Input: 1 0 
+Output: 0.00387412 
+Target: 0 
+
+Sample 1861
+Input: 0 0 
+Output: -0.00316686 
+Target: 0 
+
+Sample 1862
+Input: 0 0 
+Output: -0.00256305 
+Target: 0 
+
+Sample 1863
+Input: 0 1 
+Output: -0.00395062 
+Target: 0 
+
+Sample 1864
+Input: 1 1 
+Output: 0.965031 
+Target: 1 
+
+Sample 1865
+Input: 0 0 
+Output: 0.00329978 
+Target: 0 
+
+Sample 1866
+Input: 1 1 
+Output: 0.965445 
+Target: 1 
+
+Sample 1867
+Input: 0 1 
+Output: 0.00781741 
+Target: 0 
+
+Sample 1868
+Input: 0 0 
+Output: -0.00121518 
+Target: 0 
+
+Sample 1869
+Input: 0 0 
+Output: -0.00207157 
+Target: 0 
+
+Sample 1870
+Input: 0 0 
+Output: -0.00127437 
+Target: 0 
+
+Sample 1871
+Input: 0 0 
+Output: -0.0001219 
+Target: 0 
+
+Sample 1872
+Input: 0 0 
+Output: 0.000526465 
+Target: 0 
+
+Sample 1873
+Input: 0 0 
+Output: 0.000539214 
+Target: 0 
+
+Sample 1874
+Input: 0 1 
+Output: -0.00291463 
+Target: 0 
+
+Sample 1875
+Input: 1 1 
+Output: 0.965276 
+Target: 1 
+
+Sample 1876
+Input: 0 1 
+Output: 0.00343376 
+Target: 0 
+
+Sample 1877
+Input: 0 0 
+Output: 0.00115491 
+Target: 0 
+
+Sample 1878
+Input: 0 0 
+Output: 1.72837e-05 
+Target: 0 
+
+Sample 1879
+Input: 1 1 
+Output: 0.965418 
+Target: 1 
+
+Sample 1880
+Input: 0 1 
+Output: 0.00120925 
+Target: 0 
+
+Sample 1881
+Input: 1 0 
+Output: 0.00613768 
+Target: 0 
+
+Sample 1882
+Input: 1 1 
+Output: 0.965256 
+Target: 1 
+
+Sample 1883
+Input: 0 1 
+Output: -0.00367298 
+Target: 0 
+
+Sample 1884
+Input: 0 0 
+Output: -0.00375777 
+Target: 0 
+
+Sample 1885
+Input: 1 0 
+Output: 0.00225999 
+Target: 0 
+
+Sample 1886
+Input: 1 0 
+Output: 0.000961043 
+Target: 0 
+
+Sample 1887
+Input: 1 0 
+Output: -0.000761887 
+Target: 0 
+
+Sample 1888
+Input: 1 0 
+Output: -0.000772257 
+Target: 0 
+
+Sample 1889
+Input: 0 0 
+Output: -0.000208714 
+Target: 0 
+
+Sample 1890
+Input: 1 0 
+Output: 0.000600127 
+Target: 0 
+
+Sample 1891
+Input: 0 1 
+Output: 0.00405724 
+Target: 0 
+
+Sample 1892
+Input: 0 0 
+Output: -0.00157064 
+Target: 0 
+
+Sample 1893
+Input: 0 0 
+Output: -0.00145114 
+Target: 0 
+
+Sample 1894
+Input: 1 1 
+Output: 0.965146 
+Target: 1 
+
+Sample 1895
+Input: 0 0 
+Output: 0.000298205 
+Target: 0 
+
+Sample 1896
+Input: 1 0 
+Output: -0.000186196 
+Target: 0 
+
+Sample 1897
+Input: 0 0 
+Output: 0.000733532 
+Target: 0 
+
+Sample 1898
+Input: 0 0 
+Output: 0.000397575 
+Target: 0 
+
+Sample 1899
+Input: 0 0 
+Output: -5.74632e-06 
+Target: 0 
+
+Sample 1900
+Input: 1 0 
+Output: 0.000341008 
+Target: 0 
+
+Sample 1901
+Input: 1 0 
+Output: -7.44817e-05 
+Target: 0 
+
+Sample 1902
+Input: 1 0 
+Output: -0.000199008 
+Target: 0 
+
+Sample 1903
+Input: 1 1 
+Output: 0.965467 
+Target: 1 
+
+Sample 1904
+Input: 0 1 
+Output: 0.00287142 
+Target: 0 
+
+Sample 1905
+Input: 1 0 
+Output: 0.00124405 
+Target: 0 
+
+Sample 1906
+Input: 1 0 
+Output: -0.000574743 
+Target: 0 
+
+Sample 1907
+Input: 0 1 
+Output: -0.00142496 
+Target: 0 
+
+Sample 1908
+Input: 0 0 
+Output: -0.00184111 
+Target: 0 
+
+Sample 1909
+Input: 0 1 
+Output: 0.00112338 
+Target: 0 
+
+Sample 1910
+Input: 1 0 
+Output: 0.000986479 
+Target: 0 
+
+Sample 1911
+Input: 1 1 
+Output: 0.965472 
+Target: 1 
+
+Sample 1912
+Input: 0 0 
+Output: -0.000409393 
+Target: 0 
+
+Sample 1913
+Input: 0 0 
+Output: -6.02181e-05 
+Target: 0 
+
+Sample 1914
+Input: 1 1 
+Output: 0.965739 
+Target: 1 
+
+Sample 1915
+Input: 1 0 
+Output: 0.00490931 
+Target: 0 
+
+Sample 1916
+Input: 1 0 
+Output: 0.000545843 
+Target: 0 
+
+Sample 1917
+Input: 1 1 
+Output: 0.965626 
+Target: 1 
+
+Sample 1918
+Input: 1 0 
+Output: -0.00160122 
+Target: 0 
+
+Sample 1919
+Input: 1 0 
+Output: 0.000512644 
+Target: 0 
+
+Sample 1920
+Input: 1 1 
+Output: 0.96595 
+Target: 1 
+
+Sample 1921
+Input: 0 1 
+Output: 0.00694352 
+Target: 0 
+
+Sample 1922
+Input: 1 0 
+Output: -0.000301177 
+Target: 0 
+
+Sample 1923
+Input: 1 1 
+Output: 0.965725 
+Target: 1 
+
+Sample 1924
+Input: 0 1 
+Output: -0.0015144 
+Target: 0 
+
+Sample 1925
+Input: 1 0 
+Output: 0.00125482 
+Target: 0 
+
+Sample 1926
+Input: 1 0 
+Output: 0.000685157 
+Target: 0 
+
+Sample 1927
+Input: 0 0 
+Output: -0.0055596 
+Target: 0 
+
+Sample 1928
+Input: 1 0 
+Output: 0.00140915 
+Target: 0 
+
+Sample 1929
+Input: 1 0 
+Output: 0.00071909 
+Target: 0 
+
+Sample 1930
+Input: 1 1 
+Output: 0.965845 
+Target: 1 
+
+Sample 1931
+Input: 0 1 
+Output: 0.00326141 
+Target: 0 
+
+Sample 1932
+Input: 1 1 
+Output: 0.965874 
+Target: 1 
+
+Sample 1933
+Input: 1 0 
+Output: 0.000820112 
+Target: 0 
+
+Sample 1934
+Input: 1 0 
+Output: 0.000540715 
+Target: 0 
+
+Sample 1935
+Input: 1 1 
+Output: 0.965985 
+Target: 1 
+
+Sample 1936
+Input: 1 1 
+Output: 0.966152 
+Target: 1 
+
+Sample 1937
+Input: 0 0 
+Output: -0.00241677 
+Target: 0 
+
+Sample 1938
+Input: 0 1 
+Output: 0.00760717 
+Target: 0 
+
+Sample 1939
+Input: 0 1 
+Output: 0.000831117 
+Target: 0 
+
+Sample 1940
+Input: 1 1 
+Output: 0.965984 
+Target: 1 
+
+Sample 1941
+Input: 0 1 
+Output: -0.00359653 
+Target: 0 
+
+Sample 1942
+Input: 0 0 
+Output: -0.0034345 
+Target: 0 
+
+Sample 1943
+Input: 1 1 
+Output: 0.966441 
+Target: 1 
+
+Sample 1944
+Input: 1 1 
+Output: 0.966689 
+Target: 1 
+
+Sample 1945
+Input: 0 1 
+Output: 0.0103345 
+Target: 0 
+
+Sample 1946
+Input: 0 0 
+Output: -0.0013867 
+Target: 0 
+
+Sample 1947
+Input: 1 1 
+Output: 0.966341 
+Target: 1 
+
+Sample 1948
+Input: 0 0 
+Output: -0.00239231 
+Target: 0 
+
+Sample 1949
+Input: 0 0 
+Output: -0.00102588 
+Target: 0 
+
+Sample 1950
+Input: 1 1 
+Output: 0.966513 
+Target: 1 
+
+Sample 1951
+Input: 1 1 
+Output: 0.966704 
+Target: 1 
+
+Sample 1952
+Input: 1 0 
+Output: 0.0156348 
+Target: 0 
+
+Sample 1953
+Input: 0 0 
+Output: -0.00397489 
+Target: 0 
+
+Sample 1954
+Input: 0 0 
+Output: -0.00464587 
+Target: 0 
+
+Sample 1955
+Input: 1 1 
+Output: 0.965709 
+Target: 1 
+
+Sample 1956
+Input: 0 0 
+Output: -0.00065194 
+Target: 0 
+
+Sample 1957
+Input: 1 1 
+Output: 0.965895 
+Target: 1 
+
+Sample 1958
+Input: 0 0 
+Output: 0.00146312 
+Target: 0 
+
+Sample 1959
+Input: 1 0 
+Output: -0.00242469 
+Target: 0 
+
+Sample 1960
+Input: 0 1 
+Output: 0.0016457 
+Target: 0 
+
+Sample 1961
+Input: 0 0 
+Output: 0.00163412 
+Target: 0 
+
+Sample 1962
+Input: 0 1 
+Output: -6.81152e-05 
+Target: 0 
+
+Sample 1963
+Input: 0 1 
+Output: -0.00049545 
+Target: 0 
+
+Sample 1964
+Input: 0 1 
+Output: -0.000191959 
+Target: 0 
+
+Sample 1965
+Input: 1 0 
+Output: 0.000859154 
+Target: 0 
+
+Sample 1966
+Input: 1 1 
+Output: 0.966378 
+Target: 1 
+
+Sample 1967
+Input: 1 0 
+Output: 0.00155703 
+Target: 0 
+
+Sample 1968
+Input: 0 0 
+Output: -0.000711992 
+Target: 0 
+
+Sample 1969
+Input: 1 1 
+Output: 0.96652 
+Target: 1 
+
+Sample 1970
+Input: 0 1 
+Output: 0.00343886 
+Target: 0 
+
+Sample 1971
+Input: 1 1 
+Output: 0.966584 
+Target: 1 
+
+Sample 1972
+Input: 1 0 
+Output: 0.00207516 
+Target: 0 
+
+Sample 1973
+Input: 0 0 
+Output: -0.00249141 
+Target: 0 
+
+Sample 1974
+Input: 0 1 
+Output: 0.000735851 
+Target: 0 
+
+Sample 1975
+Input: 0 0 
+Output: -0.00129064 
+Target: 0 
+
+Sample 1976
+Input: 0 0 
+Output: -0.000419789 
+Target: 0 
+
+Sample 1977
+Input: 1 1 
+Output: 0.966579 
+Target: 1 
+
+Sample 1978
+Input: 0 1 
+Output: 0.00270425 
+Target: 0 
+
+Sample 1979
+Input: 0 0 
+Output: 0.000233593 
+Target: 0 
+
+Sample 1980
+Input: 0 1 
+Output: -0.000109203 
+Target: 0 
+
+Sample 1981
+Input: 0 1 
+Output: -0.00049437 
+Target: 0 
+
+Sample 1982
+Input: 1 0 
+Output: 0.00174617 
+Target: 0 
+
+Sample 1983
+Input: 0 1 
+Output: -0.00118362 
+Target: 0 
+
+Sample 1984
+Input: 0 1 
+Output: -0.000453391 
+Target: 0 
+
+Sample 1985
+Input: 1 1 
+Output: 0.966625 
+Target: 1 
+
+Sample 1986
+Input: 0 0 
+Output: -0.000235827 
+Target: 0 
+
+Sample 1987
+Input: 0 1 
+Output: 0.00393199 
+Target: 0 
+
+Sample 1988
+Input: 0 0 
+Output: -0.00121758 
+Target: 0 
+
+Sample 1989
+Input: 0 1 
+Output: -0.000831292 
+Target: 0 
+
+Sample 1990
+Input: 0 0 
+Output: -0.000821341 
+Target: 0 
+
+Sample 1991
+Input: 0 1 
+Output: -0.000159023 
+Target: 0 
+
+Sample 1992
+Input: 1 1 
+Output: 0.9667 
+Target: 1 
+
+Sample 1993
+Input: 0 1 
+Output: 0.00229282 
+Target: 0 
+
+Sample 1994
+Input: 1 1 
+Output: 0.966836 
+Target: 1 
+
+Sample 1995
+Input: 1 1 
+Output: 0.966983 
+Target: 1 
+
+Sample 1996
+Input: 1 0 
+Output: 0.00769807 
+Target: 0 
+
+Sample 1997
+Input: 1 0 
+Output: 0.000381686 
+Target: 0 
+
+Sample 1998
+Input: 1 1 
+Output: 0.966713 
+Target: 1 
+
+Sample 1999
+Input: 0 1 
+Output: -0.000934157 
+Target: 0 
+
+Sample 2000
+Input: 1 1 
+Output: 0.96688 
+Target: 1 
+
+Sample 2001
+Input: 0 0 
+Output: -0.00417287 
+Target: 0 
+
+Completed
